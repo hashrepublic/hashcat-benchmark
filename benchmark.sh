@@ -44,9 +44,9 @@ function genMask() {
     string=$(od -vAn -N"$length" -tx1 < /dev/urandom | tr -d ' \n' | head -c "$length")
     count=0
     num_replacements=$(( length < 7 ? $length : 7 ))
-    for (( i=0; i<=num_replacements ; i++ )); do
+    for (( i=0; i<num_replacements ; i++ )); do
         # Place at the end
-        pos=$((${#string} - $i))
+        pos=$((${#string} - $i - 1))
         # Place at the beggining
         # pos=$(($i))
         string="${string:0:pos}_${string:pos+1}"

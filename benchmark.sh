@@ -59,7 +59,7 @@ function getMaxPasswordLength() {
     mode=$1
     session="hashcat-bench-$mode"
     hash="samples/$mode"
-    hashcatCmd="hashcat $optimized -m $mode -a 3 $hash '' | tee -a $session.txt"
+    hashcatCmd="hashcat $optimized -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
     pkill hashcat
     echo "" > "$session.txt"
     screen -S $session -X quit 1> /dev/null 2> /dev/null
@@ -68,6 +68,13 @@ function getMaxPasswordLength() {
     screen -S $session -p 0 -X stuff 'q' 1> /dev/null 2> /dev/null
     screen -S $session -X quit 1> /dev/null 2> /dev/null
     cat $session.txt | grep "Maximum password length supported by kernel" | cut -d ":" -f 2
+}
+
+function waitBenchStarted() {
+    fname=$1
+    while ! grep -q "\[s\]tatus \[p\]ause \[b\]ypass \[c\]heckpoint \[f\]inish \[q\]uit" "$fname"; do
+        sleep 1  # Wait 1 second before checking again
+    done
 }
 
 function benchmark() {
@@ -83,6 +90,7 @@ function benchmark() {
     echo "" > "$session.txt"
     screen -S $session -X quit 1> /dev/null 2> /dev/null
     screen -dmS $session bash -c "$hashcatCmd" 1> /dev/null 2> /dev/null
+    waitBenchStarted "$session.txt"
     sleep $duration
     screen -S $session -p 0 -X stuff 's' 1> /dev/null 2> /dev/null
     sleep 5

@@ -3,6 +3,9 @@
 # Duration of a single mode benchmark 
 duration=120
 
+# Delay between benchmarks
+delayBetween=10
+
 # Used to store results
 modeSpeeds='{}'
 
@@ -128,6 +131,7 @@ elif [[ "$userMode" == "ALL" ]]; then
         if [[ -f "$file" ]]; then
             mode=$(basename "$file")
             benchmark $mode
+            sleep $delayBetween
         fi
     done
 

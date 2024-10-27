@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Duration of a single mode benchmark 
-duration=60
+duration=120
 
 # Used to store results
 modeSpeeds='{}'
@@ -86,17 +86,15 @@ function benchmark() {
     sleep $duration
     screen -S $session -p 0 -X stuff 's' 1> /dev/null 2> /dev/null
     sleep 5
+    rawSpeed=$(cat "$session.txt" | grep Speed  | awk '{lines[NR] = $0} END {for (i = NR; i > 0; i--) print lines[i]}'  | cut -d ':' -f 2- | xargs | cut -d '(' -f 1)
+    speed=$(convert_speed "$rawSpeed")
     screen -S $session -p 0 -X stuff 'q' 1> /dev/null 2> /dev/null
     screen -S $session -X quit 1> /dev/null 2> /dev/null
-
     if grep -q "larger than the maximum password length" "$session.txt"; then
         echo "quitting due to issue with mask length, ask a dev to fix it ..."
         exit 1
     fi
-
-   rawSpeed=$(cat "$session.txt" | grep Speed | cut -d ':' -f 2- | xargs | cut -d '(' -f 1)
-   speed=$(convert_speed "$rawSpeed")
-   
+    
    set_mode_speed "$mode" "$speed"
    rm $session.txt
    echo "           result: $rawSpeed"

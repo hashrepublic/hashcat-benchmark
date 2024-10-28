@@ -64,7 +64,7 @@ function getMaxPasswordLength() {
     hash="samples/$mode"
     hashcatCmd="hashcat $optimized --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
     pkill hashcat
-    rm "$session.pot" 1> /dev/null 2> /dev/null
+    echo "" > "$session.pot" 
     echo "" > "$session.txt"
     screen -S $session -X quit 1> /dev/null 2> /dev/null
     screen -dmS $session bash -c "$hashcatCmd" 1> /dev/null 2> /dev/null
@@ -91,7 +91,7 @@ function benchmark() {
 
     echo "Benchmarking mode: $mode (maskLen:$maskLen)" 
     pkill hashcat
-    rm "$session.pot" 1> /dev/null 2> /dev/null
+    echo "" > "$session.pot"
     echo "" > "$session.txt"
     screen -S $session -X quit 1> /dev/null 2> /dev/null
     screen -dmS $session bash -c "$hashcatCmd" 1> /dev/null 2> /dev/null

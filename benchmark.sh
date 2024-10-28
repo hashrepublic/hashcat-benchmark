@@ -3,7 +3,7 @@
 # Duration of a single mode benchmark 
 duration=120
 
-# Delay between benchmarks
+# Delay between benchmarks (when you don't want to burn your GPU)
 delayBetween=10
 
 # Used to store results
@@ -62,8 +62,9 @@ function getMaxPasswordLength() {
     mode=$1
     session="hashcat-bench-$mode"
     hash="samples/$mode"
-    hashcatCmd="hashcat $optimized -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
+    hashcatCmd="hashcat $optimized --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
     pkill hashcat
+    rm "$session.pot" 1> /dev/null 2> /dev/null
     echo "" > "$session.txt"
     screen -S $session -X quit 1> /dev/null 2> /dev/null
     screen -dmS $session bash -c "$hashcatCmd" 1> /dev/null 2> /dev/null
@@ -86,10 +87,11 @@ function benchmark() {
     hash="samples/$mode"
     maskLen=$(getMaxPasswordLength $mode)
     mask=$(genMask $maskLen)
-    hashcatCmd="hashcat $optimized -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
+    hashcatCmd="hashcat $optimized --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
 
     echo "Benchmarking mode: $mode (maskLen:$maskLen)" 
     pkill hashcat
+    rm "$session.pot" 1> /dev/null 2> /dev/null
     echo "" > "$session.txt"
     screen -S $session -X quit 1> /dev/null 2> /dev/null
     screen -dmS $session bash -c "$hashcatCmd" 1> /dev/null 2> /dev/null
@@ -107,7 +109,8 @@ function benchmark() {
     fi
     
    set_mode_speed "$mode" "$speed"
-   rm $session.txt
+   rm "$session.pot" 
+   rm "$session.txt"
    echo "           result: $rawSpeed"
    echo ""
    echo "$modeSpeeds" > benchmark-result.json
@@ -127,7 +130,7 @@ if [[ "$userMode" =~ ^[0-9]+$ ]]; then
     benchmark $userMode
 
 elif [[ "$userMode" == "ALL" ]]; then
-    for file in "samples"/*; do
+    for file in $(ls "samples"/* | sort -V); do
         if [[ -f "$file" ]]; then
             mode=$(basename "$file")
             benchmark $mode

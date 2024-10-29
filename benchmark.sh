@@ -6,6 +6,12 @@ duration=120
 # Delay between benchmarks (when you don't want to burn your GPU)
 delayBetween=10
 
+# Start At Mode
+startMode=0
+
+# Charset (Everything except: H,h,A,a,S,s,C,c,T,t, to avoid cracking sample hashes)
+charset='000102030405060708090A0B0C0D0E0F101112131415161718191A1B1C1D1E1F202122232425262728292A2B2C2D2E2F303132333435363738393A3B3C3D3E3F404244454647494A4B4C4D4E4F50515255565758595A5B5C5D5E5F606264656667696A6B6C6D6E6F70717275767778797A7B7C7D7E7F808182838485868788898A8B8C8D8E8F909192939495969798999A9B9C9D9E9FA0A1A2A3A4A5A6A7A8A9AAABACADAEAFB0B1B2B3B4B5B6B7B8B9BABBBCBDBEBFC0C1C2C3C4C5C6C7C8C9CACBCCCDCECFD0D1D2D3D4D5D6D7D8D9DADBDCDDDEDFE0E1E2E3E4E5E6E7E8E9EAEBECEDEEEFF0F1F2F3F4F5F6F7F8F9FAFBFCFDFEFF'
+
 # Used to store results
 modeSpeeds='{}'
 
@@ -42,6 +48,10 @@ function convert_speed() {
     echo "$result"
 }
 
+function generate_hex_pair() {
+  printf "%02X" $((RANDOM % 256))
+}
+
 function genMask() {
     length=$1
     string=$(od -vAn -N"$length" -tx1 < /dev/urandom | tr -d ' \n' | head -c "$length")
@@ -54,15 +64,25 @@ function genMask() {
         # pos=$(($i))
         string="${string:0:pos}_${string:pos+1}"
     done
-    string="${string//_/?b}"
-    echo "$string"
+
+    output_string=""
+    for (( i=0; i<${#string}; i++ )); do
+        char="${string:$i:1}"
+        if [[ "$char" == "_" ]]; then
+            output_string+="?1"
+        else
+            output_string+="$(generate_hex_pair)"
+        fi
+    done
+
+    echo "$output_string"
 }
 
 function getMaxPasswordLength() {
     mode=$1
     session="hashcat-bench-$mode"
     hash="samples/$mode"
-    hashcatCmd="hashcat $optimized --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
+    hashcatCmd="hashcat $optimized --hex-charset -1 $charset --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
     pkill hashcat
     echo "" > "$session.pot" 
     echo "" > "$session.txt"
@@ -87,8 +107,8 @@ function benchmark() {
     hash="samples/$mode"
     maskLen=$(getMaxPasswordLength $mode)
     mask=$(genMask $maskLen)
-    hashcatCmd="hashcat $optimized --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
-
+    hashcatCmd="hashcat $optimized --hex-charset -1 $charset --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
+    # echo $hashcatCmd
     echo "Benchmarking mode: $mode (maskLen:$maskLen)" 
     pkill hashcat
     echo "" > "$session.pot"
@@ -125,6 +145,7 @@ else
     echo "Benchmarking in regular mode no '-O'" 
 fi
 
+
 startDate=$(date)
 if [[ "$userMode" =~ ^[0-9]+$ ]]; then
     benchmark $userMode
@@ -133,6 +154,10 @@ elif [[ "$userMode" == "ALL" ]]; then
     for file in $(ls "samples"/* | sort -V); do
         if [[ -f "$file" ]]; then
             mode=$(basename "$file")
+            if [ "$mode" -lt "$startMode" ]; then
+                continue
+            fi
+
             benchmark $mode
             sleep $delayBetween
         fi

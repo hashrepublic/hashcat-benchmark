@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Duration of a single mode benchmark 
-duration=120
+duration=300
 
 # Delay between benchmarks (when you don't want to burn your GPU)
-delayBetween=10
+delayBetween=0
 
 # Start At Mode
 startMode=0
@@ -53,15 +53,27 @@ function generate_hex_pair() {
 }
 
 function genMask() {
-    length=$1
+    minLen=$1
+    maxLen=$2
+
+    length=7
+    if (( length < minLen )); then
+        # If defaultLen is less than minLen, set len to minLen
+        length=$minLen
+    fi
+    if (( length > maxLen )); then
+        # If defaultLen is less than minLen, set len to minLen
+        length=$maxLen
+    fi      
+
     string=$(od -vAn -N"$length" -tx1 < /dev/urandom | tr -d ' \n' | head -c "$length")
     count=0
     num_replacements=$(( length < 7 ? $length : 7 ))
     for (( i=0; i<num_replacements ; i++ )); do
         # Place at the end
-        pos=$((${#string} - $i - 1))
+        # pos=$((${#string} - $i - 1))
         # Place at the beggining
-        # pos=$(($i))
+        pos=$(($i))
         string="${string:0:pos}_${string:pos+1}"
     done
 
@@ -70,7 +82,7 @@ function genMask() {
         char="${string:$i:1}"
         if [[ "$char" == "_" ]]; then
             output_string+="?1"
-        else
+	else
             output_string+="$(generate_hex_pair)"
         fi
     done
@@ -78,8 +90,9 @@ function genMask() {
     echo "$output_string"
 }
 
-function getMaxPasswordLength() {
+function getMinPasswordLength() {
     mode=$1
+    optimized=$2
     session="hashcat-bench-$mode"
     hash="samples/$mode"
     hashcatCmd="hashcat $optimized --hex-charset -1 $charset --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
@@ -91,7 +104,24 @@ function getMaxPasswordLength() {
     sleep 5
     screen -S $session -p 0 -X stuff 'q' 1> /dev/null 2> /dev/null
     screen -S $session -X quit 1> /dev/null 2> /dev/null
-    cat $session.txt | grep "Maximum password length supported by kernel" | cut -d ":" -f 2
+    cat $session.txt | grep "Minimum password length supported by kernel" | cut -d ":" -f 2 | tr -d ' '
+}
+
+function getMaxPasswordLength() {
+    mode=$1
+    optimized=$2
+    session="hashcat-bench-$mode"
+    hash="samples/$mode"
+    hashcatCmd="hashcat $optimized --hex-charset -1 $charset --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
+    pkill hashcat
+    echo "" > "$session.pot" 
+    echo "" > "$session.txt"
+    screen -S $session -X quit 1> /dev/null 2> /dev/null
+    screen -dmS $session bash -c "$hashcatCmd" 1> /dev/null 2> /dev/null
+    sleep 5
+    screen -S $session -p 0 -X stuff 'q' 1> /dev/null 2> /dev/null
+    screen -S $session -X quit 1> /dev/null 2> /dev/null
+    cat $session.txt | grep "Maximum password length supported by kernel" | cut -d ":" -f 2 | tr -d ' '
 }
 
 function waitBenchStarted() {
@@ -103,13 +133,15 @@ function waitBenchStarted() {
 
 function benchmark() {
     mode=$1
+    optimized=$2
     session="hashcat-bench-$mode"
     hash="samples/$mode"
-    maskLen=$(getMaxPasswordLength $mode)
-    mask=$(genMask $maskLen)
+    minLen=$(getMinPasswordLength $mode $optimized)
+    maxLen=$(getMaxPasswordLength $mode $optimized)
+    mask=$(genMask $minLen $maxLen)
     hashcatCmd="hashcat $optimized --hex-charset -1 $charset --potfile-path=$session.pot -m $mode -a 3 $hash '$mask' | tee -a $session.txt"
-    # echo $hashcatCmd
-    echo "Benchmarking mode: $mode (maskLen:$maskLen)" 
+    echo $hashcatCmd
+    echo "Benchmarking mode: (mode:$mode) (minLen:$minLen) (maxLen:$maxLen) (optimized:'$optimized')" 
     pkill hashcat
     echo "" > "$session.pot"
     echo "" > "$session.txt"
@@ -128,7 +160,7 @@ function benchmark() {
         exit 1
     fi
     
-   set_mode_speed "$mode" "$speed"
+   set_mode_speed "$mode$optimized" "$speed"
    rm "$session.pot" 
    rm "$session.txt"
    echo "           result: $rawSpeed"
@@ -158,7 +190,9 @@ elif [[ "$userMode" == "ALL" ]]; then
                 continue
             fi
 
-            benchmark $mode
+            benchmark $mode ""
+            sleep $delayBetween
+            benchmark $mode "-O"
             sleep $delayBetween
         fi
     done

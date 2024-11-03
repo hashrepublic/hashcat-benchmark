@@ -1,0 +1,27 @@
+Machine: 
+
+  Runpod.io / RTX4090 / 1 GPUs
+  
+
+OpenCL Info:
+============
+
+OpenCL Platform ID #1
+  Vendor..: NVIDIA Corporation
+  Name....: NVIDIA CUDA
+  Version.: OpenCL 3.0 CUDA 12.4.131
+
+  Backend Device ID #1
+    Type...........: GPU
+    Vendor.ID......: 32
+    Vendor.........: NVIDIA Corporation
+    Name...........: NVIDIA GeForce RTX 4090
+    Version........: OpenCL 3.0 CUDA
+    Processor(s)...: 128
+    Clock..........: 2520
+    Memory.Total...: 24210 MB (limited to 6052 MB allocatable in one block)
+    Memory.Free....: 20544 MB
+    Local.Memory...: 48 KB
+    OpenCL.Version.: OpenCL C 1.2 
+    Driver.Version.: 550.90.07
+    PCI.Addr.BDF...: 81:00.0

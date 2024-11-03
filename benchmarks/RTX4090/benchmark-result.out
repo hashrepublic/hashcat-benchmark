@@ -1,0 +1,3153 @@
+Benchmarking mode: (mode:0) (minLen:0) (maxLen:256) (optimized:'')
+           result: 66891.5 MH/s 
+
+Benchmarking mode: (mode:0) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 156.4 GH/s 
+
+Benchmarking mode: (mode:10) (minLen:0) (maxLen:256) (optimized:'')
+           result: 56145.5 MH/s 
+
+Benchmarking mode: (mode:10) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 156.3 GH/s 
+
+Benchmarking mode: (mode:11) (minLen:0) (maxLen:256) (optimized:'')
+           result: 55987.2 MH/s 
+
+Benchmarking mode: (mode:11) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 153.7 GH/s 
+
+Benchmarking mode: (mode:12) (minLen:0) (maxLen:256) (optimized:'')
+           result: 56573.6 MH/s 
+
+Benchmarking mode: (mode:12) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 152.7 GH/s 
+
+Benchmarking mode: (mode:20) (minLen:0) (maxLen:256) (optimized:'')
+           result: 59816.8 MH/s 
+
+Benchmarking mode: (mode:20) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 83709.1 MH/s 
+
+Benchmarking mode: (mode:21) (minLen:0) (maxLen:256) (optimized:'')
+           result: 58968.3 MH/s 
+
+Benchmarking mode: (mode:21) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 85222.9 MH/s 
+
+Benchmarking mode: (mode:22) (minLen:0) (maxLen:256) (optimized:'')
+           result: 60128.4 MH/s 
+
+Benchmarking mode: (mode:22) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 83921.4 MH/s 
+
+Benchmarking mode: (mode:23) (minLen:0) (maxLen:256) (optimized:'')
+           result: 59407.8 MH/s 
+
+Benchmarking mode: (mode:23) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 83680.8 MH/s 
+
+Benchmarking mode: (mode:24) (minLen:0) (maxLen:256) (optimized:'')
+           result: 58906.2 MH/s 
+
+Benchmarking mode: (mode:24) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 81174.8 MH/s 
+
+Benchmarking mode: (mode:30) (minLen:0) (maxLen:256) (optimized:'')
+           result: 28527.3 MH/s 
+
+Benchmarking mode: (mode:30) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 151.1 GH/s 
+
+Benchmarking mode: (mode:40) (minLen:0) (maxLen:256) (optimized:'')
+           result: 29848.8 MH/s 
+
+Benchmarking mode: (mode:40) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 84740.1 MH/s 
+
+Benchmarking mode: (mode:50) (minLen:0) (maxLen:256) (optimized:'')
+           result: 19760.0 MH/s 
+
+Benchmarking mode: (mode:50) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 25386.7 MH/s 
+
+Benchmarking mode: (mode:60) (minLen:0) (maxLen:256) (optimized:'')
+           result: 40264.7 MH/s 
+
+Benchmarking mode: (mode:60) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 52523.5 MH/s 
+
+Benchmarking mode: (mode:70) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30046.7 MH/s 
+
+Benchmarking mode: (mode:70) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 148.9 GH/s 
+
+Benchmarking mode: (mode:100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 33654.6 MH/s 
+
+Benchmarking mode: (mode:100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 48928.7 MH/s 
+
+Benchmarking mode: (mode:101) (minLen:0) (maxLen:256) (optimized:'')
+           result: 33896.0 MH/s 
+
+Benchmarking mode: (mode:101) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 48963.4 MH/s 
+
+Benchmarking mode: (mode:110) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31553.3 MH/s 
+
+Benchmarking mode: (mode:110) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 49208.3 MH/s 
+
+Benchmarking mode: (mode:111) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31381.3 MH/s 
+
+Benchmarking mode: (mode:111) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 48831.4 MH/s 
+
+Benchmarking mode: (mode:112) (minLen:0) (maxLen:30) (optimized:'')
+           result: 31409.6 MH/s 
+
+Benchmarking mode: (mode:112) (minLen:0) (maxLen:30) (optimized:'-O')
+           result: 49218.6 MH/s 
+
+Benchmarking mode: (mode:120) (minLen:0) (maxLen:256) (optimized:'')
+           result: 32433.6 MH/s 
+
+Benchmarking mode: (mode:120) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 37780.7 MH/s 
+
+Benchmarking mode: (mode:121) (minLen:0) (maxLen:256) (optimized:'')
+           result: 32453.4 MH/s 
+
+Benchmarking mode: (mode:121) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 37926.6 MH/s 
+
+Benchmarking mode: (mode:122) (minLen:0) (maxLen:256) (optimized:'')
+           result: 32446.1 MH/s 
+
+Benchmarking mode: (mode:122) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 37869.6 MH/s 
+
+Benchmarking mode: (mode:124) (minLen:0) (maxLen:256) (optimized:'')
+           result: 32499.6 MH/s 
+
+Benchmarking mode: (mode:124) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 37761.0 MH/s 
+
+Benchmarking mode: (mode:125) (minLen:0) (maxLen:256) (optimized:'')
+           result: 32377.1 MH/s 
+
+Benchmarking mode: (mode:125) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 37769.4 MH/s 
+
+Benchmarking mode: (mode:130) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30729.5 MH/s 
+
+Benchmarking mode: (mode:130) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 49342.7 MH/s 
+
+Benchmarking mode: (mode:131) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30784.4 MH/s 
+
+Benchmarking mode: (mode:131) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 49358.5 MH/s 
+
+Benchmarking mode: (mode:132) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30740.5 MH/s 
+
+Benchmarking mode: (mode:132) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 49464.1 MH/s 
+
+Benchmarking mode: (mode:133) (minLen:0) (maxLen:256) (optimized:'')
+           result: 32860.0 MH/s 
+
+Benchmarking mode: (mode:133) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 49087.5 MH/s 
+
+Benchmarking mode: (mode:140) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31930.1 MH/s 
+
+Benchmarking mode: (mode:140) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 37905.7 MH/s 
+
+Benchmarking mode: (mode:141) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31982.1 MH/s 
+
+Benchmarking mode: (mode:141) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 37864.9 MH/s 
+
+Benchmarking mode: (mode:150) (minLen:0) (maxLen:256) (optimized:'')
+           result: 9198.2 MH/s 
+
+Benchmarking mode: (mode:150) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 11333.0 MH/s 
+
+Benchmarking mode: (mode:160) (minLen:0) (maxLen:256) (optimized:'')
+           result: 18544.1 MH/s 
+
+Benchmarking mode: (mode:160) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 20909.7 MH/s 
+
+Benchmarking mode: (mode:170) (minLen:0) (maxLen:256) (optimized:'')
+           result: 33697.1 MH/s 
+
+Benchmarking mode: (mode:170) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 49117.2 MH/s 
+
+Benchmarking mode: (mode:200) (minLen:0) (maxLen:55) (optimized:'')
+           result: 485.4 GH/s 
+
+Benchmarking mode: (mode:200) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 486.2 GH/s 
+
+Benchmarking mode: (mode:300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 18550.2 MH/s 
+
+Benchmarking mode: (mode:300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 21433.6 MH/s 
+
+Benchmarking mode: (mode:400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 46488.7 kH/s 
+
+Benchmarking mode: (mode:400) (minLen:0) (maxLen:39) (optimized:'-O')
+           result: 48106.3 kH/s 
+
+Benchmarking mode: (mode:500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3642.8 kH/s 
+
+Benchmarking mode: (mode:500) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 67747.7 kH/s 
+
+Benchmarking mode: (mode:501) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3641.3 kH/s 
+
+Benchmarking mode: (mode:501) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 67750.6 kH/s 
+
+Benchmarking mode: (mode:600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3170.2 MH/s 
+
+Benchmarking mode: (mode:600) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 12415.8 MH/s 
+
+Benchmarking mode: (mode:610) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2108.6 MH/s 
+
+Benchmarking mode: (mode:610) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 12381.8 MH/s 
+
+Benchmarking mode: (mode:620) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5101.1 MH/s 
+
+Benchmarking mode: (mode:620) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 11556.9 MH/s 
+
+Benchmarking mode: (mode:900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 89427.3 MH/s 
+
+Benchmarking mode: (mode:900) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 279.8 GH/s 
+
+Benchmarking mode: (mode:1000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30759.3 MH/s 
+
+Benchmarking mode: (mode:1000) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 272.8 GH/s 
+
+Benchmarking mode: (mode:1100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 27488.4 MH/s 
+
+Benchmarking mode: (mode:1100) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 71268.6 MH/s 
+
+Benchmarking mode: (mode:1300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15561.4 MH/s 
+
+Benchmarking mode: (mode:1300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 20673.9 MH/s 
+
+Benchmarking mode: (mode:1400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15592.6 MH/s 
+
+Benchmarking mode: (mode:1400) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 20963.7 MH/s 
+
+Benchmarking mode: (mode:1410) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15230.3 MH/s 
+
+Benchmarking mode: (mode:1410) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 20976.3 MH/s 
+
+Benchmarking mode: (mode:1411) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15308.5 MH/s 
+
+Benchmarking mode: (mode:1411) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 21180.7 MH/s 
+
+Benchmarking mode: (mode:1420) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15384.6 MH/s 
+
+Benchmarking mode: (mode:1420) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18853.8 MH/s 
+
+Benchmarking mode: (mode:1421) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15461.8 MH/s 
+
+Benchmarking mode: (mode:1421) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18791.8 MH/s 
+
+Benchmarking mode: (mode:1430) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15108.9 MH/s 
+
+Benchmarking mode: (mode:1430) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 20930.5 MH/s 
+
+Benchmarking mode: (mode:1440) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15263.8 MH/s 
+
+Benchmarking mode: (mode:1440) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 18463.2 MH/s 
+
+Benchmarking mode: (mode:1441) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15358.1 MH/s 
+
+Benchmarking mode: (mode:1441) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 18666.5 MH/s 
+
+Benchmarking mode: (mode:1450) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4009.5 MH/s 
+
+Benchmarking mode: (mode:1450) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4090.2 MH/s 
+
+Benchmarking mode: (mode:1460) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4711.4 MH/s 
+
+Benchmarking mode: (mode:1460) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 9107.1 MH/s 
+
+Benchmarking mode: (mode:1470) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15716.6 MH/s 
+
+Benchmarking mode: (mode:1470) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 21216.9 MH/s 
+
+Benchmarking mode: (mode:1500) (minLen:0) (maxLen:8) (optimized:'')
+           result: 6337.1 MH/s 
+
+Benchmarking mode: (mode:1500) (minLen:0) (maxLen:8) (optimized:'-O')
+           result: 6349.2 MH/s 
+
+Benchmarking mode: (mode:1600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3666.4 kH/s 
+
+Benchmarking mode: (mode:1600) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 67805.5 kH/s 
+
+Benchmarking mode: (mode:1700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6156.1 MH/s 
+
+Benchmarking mode: (mode:1700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6176.0 MH/s 
+
+Benchmarking mode: (mode:1710) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1906.3 MH/s 
+
+Benchmarking mode: (mode:1710) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6106.7 MH/s 
+
+Benchmarking mode: (mode:1711) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1901.7 MH/s 
+
+Benchmarking mode: (mode:1711) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6184.6 MH/s 
+
+Benchmarking mode: (mode:1720) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5969.6 MH/s 
+
+Benchmarking mode: (mode:1720) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6156.9 MH/s 
+
+Benchmarking mode: (mode:1722) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5971.8 MH/s 
+
+Benchmarking mode: (mode:1722) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6106.8 MH/s 
+
+Benchmarking mode: (mode:1730) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1917.0 MH/s 
+
+Benchmarking mode: (mode:1730) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 6161.4 MH/s 
+
+Benchmarking mode: (mode:1731) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1914.7 MH/s 
+
+Benchmarking mode: (mode:1731) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 6112.3 MH/s 
+
+Benchmarking mode: (mode:1740) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5900.6 MH/s 
+
+Benchmarking mode: (mode:1740) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 6171.3 MH/s 
+
+Benchmarking mode: (mode:1750) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1235.6 MH/s 
+
+Benchmarking mode: (mode:1750) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 1517.0 MH/s 
+
+Benchmarking mode: (mode:1760) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2970.2 MH/s 
+
+Benchmarking mode: (mode:1760) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 3047.0 MH/s 
+
+Benchmarking mode: (mode:1770) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6073.3 MH/s 
+
+Benchmarking mode: (mode:1770) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 6177.0 MH/s 
+
+Benchmarking mode: (mode:1800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 338.5 kH/s 
+
+Benchmarking mode: (mode:1800) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 1090.8 kH/s 
+
+Benchmarking mode: (mode:2000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 16933.9 GH/s 
+
+Benchmarking mode: (mode:2000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 16566.6 GH/s 
+
+Benchmarking mode: (mode:2100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2008.7 kH/s 
+
+Benchmarking mode: (mode:2100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2036.7 kH/s 
+
+Benchmarking mode: (mode:2400) (minLen:0) (maxLen:31) (optimized:'')
+           result: 112.3 GH/s 
+
+Benchmarking mode: (mode:2400) (minLen:0) (maxLen:31) (optimized:'-O')
+           result: 112.5 GH/s 
+
+Benchmarking mode: (mode:2410) (minLen:0) (maxLen:47) (optimized:'')
+           result: 113.2 GH/s 
+
+Benchmarking mode: (mode:2410) (minLen:0) (maxLen:47) (optimized:'-O')
+           result: 113.3 GH/s 
+
+Benchmarking mode: (mode:2600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 32334.7 MH/s 
+
+Benchmarking mode: (mode:2600) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 46685.1 MH/s 
+
+Benchmarking mode: (mode:2611) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31357.7 MH/s 
+
+Benchmarking mode: (mode:2611) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 47047.7 MH/s 
+
+Benchmarking mode: (mode:2612) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31435.4 MH/s 
+
+Benchmarking mode: (mode:2612) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 46623.8 MH/s 
+
+Benchmarking mode: (mode:2630) (minLen:0) (maxLen:256) (optimized:'')
+           result: 33260.6 MH/s 
+
+Benchmarking mode: (mode:2630) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 46478.5 MH/s 
+
+Benchmarking mode: (mode:2711) (minLen:0) (maxLen:55) (optimized:'')
+           result: 32590.3 MH/s 
+
+Benchmarking mode: (mode:2711) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 32558.8 MH/s 
+
+Benchmarking mode: (mode:2811) (minLen:0) (maxLen:256) (optimized:'')
+           result: 28205.2 MH/s 
+
+Benchmarking mode: (mode:2811) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 33848.4 MH/s 
+
+Benchmarking mode: (mode:3000) (minLen:0) (maxLen:7) (optimized:'')
+           result: 149.3 GH/s 
+
+Benchmarking mode: (mode:3000) (minLen:0) (maxLen:7) (optimized:'-O')
+           result: 149.1 GH/s 
+
+Benchmarking mode: (mode:3100) (minLen:0) (maxLen:30) (optimized:'')
+           result: 3803.8 MH/s 
+
+Benchmarking mode: (mode:3100) (minLen:0) (maxLen:30) (optimized:'-O')
+           result: 3775.6 MH/s 
+
+Benchmarking mode: (mode:3200) (minLen:0) (maxLen:72) (optimized:'')
+           result: 7070 H/s 
+
+Benchmarking mode: (mode:3200) (minLen:0) (maxLen:72) (optimized:'-O')
+           result: 7079 H/s 
+
+Benchmarking mode: (mode:3500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 22812.3 MH/s 
+
+Benchmarking mode: (mode:3500) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 29562.6 MH/s 
+
+Benchmarking mode: (mode:3610) (minLen:0) (maxLen:256) (optimized:'')
+           result: 22394.0 MH/s 
+
+Benchmarking mode: (mode:3610) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 29640.4 MH/s 
+
+Benchmarking mode: (mode:3710) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30144.1 MH/s 
+
+Benchmarking mode: (mode:3710) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 41710.0 MH/s 
+
+Benchmarking mode: (mode:3711) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30088.7 MH/s 
+
+Benchmarking mode: (mode:3711) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 41931.1 MH/s 
+
+Benchmarking mode: (mode:3730) (minLen:0) (maxLen:256) (optimized:'')
+           result: 28152.7 MH/s 
+
+Benchmarking mode: (mode:3730) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 28293.7 MH/s 
+
+Benchmarking mode: (mode:3800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 50893.6 MH/s 
+
+Benchmarking mode: (mode:3800) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 85143.6 MH/s 
+
+Benchmarking mode: (mode:3910) (minLen:0) (maxLen:256) (optimized:'')
+           result: 27480.0 MH/s 
+
+Benchmarking mode: (mode:3910) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 32346.2 MH/s 
+
+Benchmarking mode: (mode:4010) (minLen:0) (maxLen:256) (optimized:'')
+           result: 29302.1 MH/s 
+
+Benchmarking mode: (mode:4010) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 36580.0 MH/s 
+
+Benchmarking mode: (mode:4110) (minLen:0) (maxLen:256) (optimized:'')
+           result: 29654.6 MH/s 
+
+Benchmarking mode: (mode:4110) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 42251.8 MH/s 
+
+Benchmarking mode: (mode:4300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31998.0 MH/s 
+
+Benchmarking mode: (mode:4300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 46563.7 MH/s 
+
+Benchmarking mode: (mode:4400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 23170.0 MH/s 
+
+Benchmarking mode: (mode:4400) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 26516.8 MH/s 
+
+Benchmarking mode: (mode:4410) (minLen:0) (maxLen:256) (optimized:'')
+           result: 16711.6 MH/s 
+
+Benchmarking mode: (mode:4410) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 19547.0 MH/s 
+
+Benchmarking mode: (mode:4420) (minLen:0) (maxLen:256) (optimized:'')
+           result: 21870.6 MH/s 
+
+Benchmarking mode: (mode:4420) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 26677.6 MH/s 
+
+Benchmarking mode: (mode:4430) (minLen:0) (maxLen:256) (optimized:'')
+           result: 22329.4 MH/s 
+
+Benchmarking mode: (mode:4430) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 24549.6 MH/s 
+
+Benchmarking mode: (mode:4500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 17570.2 MH/s 
+
+Benchmarking mode: (mode:4500) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18839.4 MH/s 
+
+Benchmarking mode: (mode:4510) (minLen:0) (maxLen:256) (optimized:'')
+           result: 16010.7 MH/s 
+
+Benchmarking mode: (mode:4510) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18195.1 MH/s 
+
+Benchmarking mode: (mode:4520) (minLen:0) (maxLen:256) (optimized:'')
+           result: 11358.1 MH/s 
+
+Benchmarking mode: (mode:4520) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 11868.4 MH/s 
+
+Benchmarking mode: (mode:4521) (minLen:0) (maxLen:256) (optimized:'')
+           result: 11356.2 MH/s 
+
+Benchmarking mode: (mode:4521) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 11904.1 MH/s 
+
+Benchmarking mode: (mode:4522) (minLen:0) (maxLen:256) (optimized:'')
+           result: 16322.3 MH/s 
+
+Benchmarking mode: (mode:4522) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 17800.5 MH/s 
+
+Benchmarking mode: (mode:4700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 24186.0 MH/s 
+
+Benchmarking mode: (mode:4700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 26806.0 MH/s 
+
+Benchmarking mode: (mode:4710) (minLen:0) (maxLen:256) (optimized:'')
+           result: 21933.0 MH/s 
+
+Benchmarking mode: (mode:4710) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 25713.4 MH/s 
+
+Benchmarking mode: (mode:4711) (minLen:0) (maxLen:256) (optimized:'')
+           result: 21939.1 MH/s 
+
+Benchmarking mode: (mode:4711) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 25823.6 MH/s 
+
+Benchmarking mode: (mode:4800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 50634.8 MH/s 
+
+Benchmarking mode: (mode:4800) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 111.4 GH/s 
+
+Benchmarking mode: (mode:4900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5561.3 MH/s 
+
+Benchmarking mode: (mode:4900) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 35153.4 MH/s 
+
+Benchmarking mode: (mode:5000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5586.5 MH/s 
+
+Benchmarking mode: (mode:5000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 17306.3 MH/s 
+
+Benchmarking mode: (mode:5100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 65244.9 MH/s 
+
+Benchmarking mode: (mode:5100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 99623.0 MH/s 
+
+Benchmarking mode: (mode:5200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8490.3 kH/s 
+
+Benchmarking mode: (mode:5200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 8418.3 kH/s 
+
+Benchmarking mode: (mode:5300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5474.4 MH/s 
+
+Benchmarking mode: (mode:5300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 5920.4 MH/s 
+
+Benchmarking mode: (mode:5400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2314.1 MH/s 
+
+Benchmarking mode: (mode:5400) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 2541.1 MH/s 
+
+Benchmarking mode: (mode:5500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31312.1 MH/s 
+
+Benchmarking mode: (mode:5500) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 147.1 GH/s 
+
+Benchmarking mode: (mode:5600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8937.8 MH/s 
+
+Benchmarking mode: (mode:5600) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 11162.8 MH/s 
+
+Benchmarking mode: (mode:5700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15426.6 MH/s 
+
+Benchmarking mode: (mode:5700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 21198.9 MH/s 
+
+Benchmarking mode: (mode:5800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 27725.4 kH/s 
+
+Benchmarking mode: (mode:5800) (minLen:0) (maxLen:16) (optimized:'-O')
+           result: 33620.3 kH/s 
+
+Benchmarking mode: (mode:6000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 25639.8 MH/s 
+
+Benchmarking mode: (mode:6000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 33295.6 MH/s 
+
+Benchmarking mode: (mode:6050) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6940.7 MH/s 
+
+Benchmarking mode: (mode:6050) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 6925.4 MH/s 
+
+Benchmarking mode: (mode:6060) (minLen:0) (maxLen:256) (optimized:'')
+           result: 13893.8 MH/s 
+
+Benchmarking mode: (mode:6060) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 13893.7 MH/s 
+
+Benchmarking mode: (mode:6100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2506.6 MH/s 
+
+Benchmarking mode: (mode:6100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 3283.3 MH/s 
+
+Benchmarking mode: (mode:6211) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1849.0 kH/s 
+
+Benchmarking mode: (mode:6211) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1830.2 kH/s 
+
+Benchmarking mode: (mode:6212) (minLen:0) (maxLen:64) (optimized:'')
+           result: 998.6 kH/s 
+
+Benchmarking mode: (mode:6212) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 988.3 kH/s 
+
+Benchmarking mode: (mode:6213) (minLen:0) (maxLen:64) (optimized:'')
+           result: 675.8 kH/s 
+
+Benchmarking mode: (mode:6213) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 676.2 kH/s 
+
+Benchmarking mode: (mode:6221) (minLen:0) (maxLen:64) (optimized:'')
+           result: 2771.1 kH/s 
+
+Benchmarking mode: (mode:6221) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 2773.7 kH/s 
+
+Benchmarking mode: (mode:6222) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1304.7 kH/s 
+
+Benchmarking mode: (mode:6222) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1288.4 kH/s 
+
+Benchmarking mode: (mode:6223) (minLen:0) (maxLen:64) (optimized:'')
+           result: 851.5 kH/s 
+
+Benchmarking mode: (mode:6223) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 837.0 kH/s 
+
+Benchmarking mode: (mode:6231) (minLen:0) (maxLen:64) (optimized:'')
+           result: 375.0 kH/s 
+
+Benchmarking mode: (mode:6231) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 374.7 kH/s 
+
+Benchmarking mode: (mode:6232) (minLen:0) (maxLen:64) (optimized:'')
+           result: 185.8 kH/s 
+
+Benchmarking mode: (mode:6232) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 185.6 kH/s 
+
+Benchmarking mode: (mode:6233) (minLen:0) (maxLen:64) (optimized:'')
+           result: 121.6 kH/s 
+
+Benchmarking mode: (mode:6233) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 121.4 kH/s 
+
+Benchmarking mode: (mode:6241) (minLen:0) (maxLen:64) (optimized:'')
+           result: 3420.8 kH/s 
+
+Benchmarking mode: (mode:6241) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 3365.3 kH/s 
+
+Benchmarking mode: (mode:6242) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1769.1 kH/s 
+
+Benchmarking mode: (mode:6242) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1767.1 kH/s 
+
+Benchmarking mode: (mode:6243) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1175.4 kH/s 
+
+Benchmarking mode: (mode:6243) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1194.8 kH/s 
+
+Benchmarking mode: (mode:6300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3631.0 kH/s 
+
+Benchmarking mode: (mode:6300) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 67986.2 kH/s 
+
+Benchmarking mode: (mode:6400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 104.5 MH/s 
+
+Benchmarking mode: (mode:6400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 104.7 MH/s 
+
+Benchmarking mode: (mode:6500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 43537.3 kH/s 
+
+Benchmarking mode: (mode:6500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 43622.9 kH/s 
+
+Benchmarking mode: (mode:6600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 19995.7 kH/s 
+
+Benchmarking mode: (mode:6600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 19724.6 kH/s 
+
+Benchmarking mode: (mode:6700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 238.7 MH/s 
+
+Benchmarking mode: (mode:6700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 237.4 MH/s 
+
+Benchmarking mode: (mode:6800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 86915 H/s 
+
+Benchmarking mode: (mode:6800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 86918 H/s 
+
+Benchmarking mode: (mode:6900) (minLen:0) (maxLen:32) (optimized:'')
+           result: 2347.0 MH/s 
+
+Benchmarking mode: (mode:6900) (minLen:0) (maxLen:32) (optimized:'-O')
+           result: 2350.2 MH/s 
+
+Benchmarking mode: (mode:7000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30160.2 MH/s 
+
+Benchmarking mode: (mode:7000) (minLen:0) (maxLen:19) (optimized:'-O')
+           result: 42767.1 MH/s 
+
+Benchmarking mode: (mode:7100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3040.6 kH/s 
+
+Benchmarking mode: (mode:7100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 3039.2 kH/s 
+
+Benchmarking mode: (mode:7200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3037.8 kH/s 
+
+Benchmarking mode: (mode:7200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 3047.8 kH/s 
+
+Benchmarking mode: (mode:7300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6143.4 MH/s 
+
+Benchmarking mode: (mode:7300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6568.3 MH/s 
+
+Benchmarking mode: (mode:7350) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15959.1 MH/s 
+
+Benchmarking mode: (mode:7350) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 20049.4 MH/s 
+
+Benchmarking mode: (mode:7400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 652.1 kH/s 
+
+Benchmarking mode: (mode:7400) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 1955.3 kH/s 
+
+Benchmarking mode: (mode:7401) (minLen:0) (maxLen:256) (optimized:'')
+           result: 657.2 kH/s 
+
+Benchmarking mode: (mode:7401) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 1864.9 kH/s 
+
+Benchmarking mode: (mode:7500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2601.0 MH/s 
+
+Benchmarking mode: (mode:7500) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 3252.7 MH/s 
+
+Benchmarking mode: (mode:7700) (minLen:0) (maxLen:8) (optimized:'')
+           result: 7046.3 MH/s 
+
+Benchmarking mode: (mode:7700) (minLen:0) (maxLen:8) (optimized:'-O')
+           result: 7044.1 MH/s 
+
+Benchmarking mode: (mode:7701) (minLen:0) (maxLen:55) (optimized:'')
+           result: 7044.7 MH/s 
+
+Benchmarking mode: (mode:7701) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 7098.9 MH/s 
+
+Benchmarking mode: (mode:7800) (minLen:0) (maxLen:55) (optimized:'')
+           result: 5504.1 MH/s 
+
+Benchmarking mode: (mode:7800) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 5527.6 MH/s 
+
+Benchmarking mode: (mode:7801) (minLen:0) (maxLen:55) (optimized:'')
+           result: 5487.1 MH/s 
+
+Benchmarking mode: (mode:7801) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 5519.5 MH/s 
+
+Benchmarking mode: (mode:7900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 384.6 kH/s 
+
+Benchmarking mode: (mode:7900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 384.7 kH/s 
+
+Benchmarking mode: (mode:8000) (minLen:0) (maxLen:30) (optimized:'')
+           result: 2644.0 MH/s 
+
+Benchmarking mode: (mode:8000) (minLen:0) (maxLen:30) (optimized:'-O')
+           result: 2701.6 MH/s 
+
+Benchmarking mode: (mode:8100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 7325.2 MH/s 
+
+Benchmarking mode: (mode:8100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 40938.6 MH/s 
+
+Benchmarking mode: (mode:8200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 79161 H/s 
+
+Benchmarking mode: (mode:8200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 79171 H/s 
+
+Benchmarking mode: (mode:8300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2944.4 MH/s 
+
+Benchmarking mode: (mode:8300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18183.6 MH/s 
+
+Benchmarking mode: (mode:8400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6520.8 MH/s 
+
+Benchmarking mode: (mode:8400) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 7966.9 MH/s 
+
+Benchmarking mode: (mode:8500) (minLen:0) (maxLen:8) (optimized:'')
+           result: 20156.3 MH/s 
+
+Benchmarking mode: (mode:8500) (minLen:0) (maxLen:8) (optimized:'-O')
+           result: 19721.4 MH/s 
+
+Benchmarking mode: (mode:8600) (minLen:0) (maxLen:16) (optimized:'')
+           result: 2027.1 MH/s 
+
+Benchmarking mode: (mode:8600) (minLen:0) (maxLen:16) (optimized:'-O')
+           result: 2031.4 MH/s 
+
+Benchmarking mode: (mode:8700) (minLen:0) (maxLen:32) (optimized:'')
+           result: 668.0 MH/s 
+
+Benchmarking mode: (mode:8700) (minLen:0) (maxLen:32) (optimized:'-O')
+           result: 667.9 MH/s 
+
+Benchmarking mode: (mode:8800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5070.2 kH/s 
+
+Benchmarking mode: (mode:8800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4998.4 kH/s 
+
+Benchmarking mode: (mode:8900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 9573 H/s 
+
+Benchmarking mode: (mode:8900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 9570 H/s 
+
+Benchmarking mode: (mode:9000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4314.7 kH/s 
+
+Benchmarking mode: (mode:9000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4315.4 kH/s 
+
+Benchmarking mode: (mode:9100) (minLen:0) (maxLen:64) (optimized:'')
+           result: 4060.2 kH/s 
+
+Benchmarking mode: (mode:9100) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 4061.6 kH/s 
+
+Benchmarking mode: (mode:9200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 404.7 kH/s 
+
+Benchmarking mode: (mode:9200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 407.1 kH/s 
+
+Benchmarking mode: (mode:9300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 88787 H/s 
+
+Benchmarking mode: (mode:9300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 88737 H/s 
+
+Benchmarking mode: (mode:9400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 831.4 kH/s 
+
+Benchmarking mode: (mode:9400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 824.9 kH/s 
+
+Benchmarking mode: (mode:9500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 413.2 kH/s 
+
+Benchmarking mode: (mode:9500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 416.1 kH/s 
+
+Benchmarking mode: (mode:9600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 66307 H/s 
+
+Benchmarking mode: (mode:9600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 66463 H/s 
+
+Benchmarking mode: (mode:9700) (minLen:0) (maxLen:15) (optimized:'')
+           result: 2602.4 MH/s 
+
+Benchmarking mode: (mode:9700) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 2605.2 MH/s 
+
+Benchmarking mode: (mode:9710) (minLen:5) (maxLen:5) (optimized:'')
+           result: 3614.7 MH/s 
+
+Benchmarking mode: (mode:9710) (minLen:5) (maxLen:5) (optimized:'-O')
+           result: 3615.1 MH/s 
+
+Benchmarking mode: (mode:9720) (minLen:0) (maxLen:15) (optimized:'')
+           result: 13054.7 MH/s 
+
+Benchmarking mode: (mode:9720) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 13053.4 MH/s 
+
+Benchmarking mode: (mode:9800) (minLen:0) (maxLen:15) (optimized:'')
+           result: 2757.7 MH/s 
+
+Benchmarking mode: (mode:9800) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 2759.6 MH/s 
+
+Benchmarking mode: (mode:9810) (minLen:5) (maxLen:5) (optimized:'')
+           result: 3488.4 MH/s 
+
+Benchmarking mode: (mode:9810) (minLen:5) (maxLen:5) (optimized:'-O')
+           result: 3492.0 MH/s 
+
+Benchmarking mode: (mode:9820) (minLen:0) (maxLen:15) (optimized:'')
+           result: 20036.1 MH/s 
+
+Benchmarking mode: (mode:9820) (minLen:0) (maxLen:15) (optimized:'-O')
+           result: 17988.0 MH/s 
+
+Benchmarking mode: (mode:9900) (minLen:0) (maxLen:100) (optimized:'')
+           result: 40226.9 MH/s 
+
+Benchmarking mode: (mode:9900) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 55575.8 MH/s 
+
+Benchmarking mode: (mode:10000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 808.6 kH/s 
+
+Benchmarking mode: (mode:10000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 814.3 kH/s 
+
+Benchmarking mode: (mode:10100) (minLen:0) (maxLen:55) (optimized:'')
+           result: 169.6 GH/s 
+
+Benchmarking mode: (mode:10100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 169.7 GH/s 
+
+Benchmarking mode: (mode:10200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 19813.6 MH/s 
+
+Benchmarking mode: (mode:10200) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 25425.6 MH/s 
+
+Benchmarking mode: (mode:10300) (minLen:0) (maxLen:40) (optimized:'')
+           result: 32657.8 kH/s 
+
+Benchmarking mode: (mode:10300) (minLen:0) (maxLen:40) (optimized:'-O')
+           result: 32529.0 kH/s 
+
+Benchmarking mode: (mode:10400) (minLen:0) (maxLen:32) (optimized:'')
+           result: 3922.7 MH/s 
+
+Benchmarking mode: (mode:10400) (minLen:0) (maxLen:32) (optimized:'-O')
+           result: 3928.0 MH/s 
+
+Benchmarking mode: (mode:10410) (minLen:5) (maxLen:5) (optimized:'')
+           result: 4013.8 MH/s 
+
+Benchmarking mode: (mode:10410) (minLen:5) (maxLen:5) (optimized:'-O')
+           result: 4013.5 MH/s 
+
+Benchmarking mode: (mode:10420) (minLen:0) (maxLen:32) (optimized:'')
+           result: 53857.9 MH/s 
+
+Benchmarking mode: (mode:10420) (minLen:0) (maxLen:32) (optimized:'-O')
+           result: 53834.3 MH/s 
+
+Benchmarking mode: (mode:10500) (minLen:0) (maxLen:32) (optimized:'')
+           result: 161.3 MH/s 
+
+Benchmarking mode: (mode:10500) (minLen:0) (maxLen:32) (optimized:'-O')
+           result: 161.3 MH/s 
+
+Benchmarking mode: (mode:10600) (minLen:0) (maxLen:127) (optimized:'')
+           result: 15317.2 MH/s 
+
+Benchmarking mode: (mode:10600) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 21034.6 MH/s 
+
+Benchmarking mode: (mode:10700) (minLen:0) (maxLen:127) (optimized:'')
+           result: 55715 H/s 
+
+Benchmarking mode: (mode:10700) (minLen:0) (maxLen:16) (optimized:'-O')
+           result: 431.3 kH/s 
+
+Benchmarking mode: (mode:10800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6140.9 MH/s 
+
+Benchmarking mode: (mode:10800) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6179.2 MH/s 
+
+Benchmarking mode: (mode:10810) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1902.1 MH/s 
+
+Benchmarking mode: (mode:10810) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6213.2 MH/s 
+
+Benchmarking mode: (mode:10820) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5952.1 MH/s 
+
+Benchmarking mode: (mode:10820) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6197.4 MH/s 
+
+Benchmarking mode: (mode:10830) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1917.6 MH/s 
+
+Benchmarking mode: (mode:10830) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 6114.2 MH/s 
+
+Benchmarking mode: (mode:10840) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5917.1 MH/s 
+
+Benchmarking mode: (mode:10840) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 6176.5 MH/s 
+
+Benchmarking mode: (mode:10870) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6048.7 MH/s 
+
+Benchmarking mode: (mode:10870) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 6220.4 MH/s 
+
+Benchmarking mode: (mode:10900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8490.4 kH/s 
+
+Benchmarking mode: (mode:10900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 8492.6 kH/s 
+
+Benchmarking mode: (mode:10901) (minLen:0) (maxLen:256) (optimized:'')
+           result: 986.7 kH/s 
+
+Benchmarking mode: (mode:10901) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 993.6 kH/s 
+
+Benchmarking mode: (mode:11000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 35069.7 MH/s 
+
+Benchmarking mode: (mode:11000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 58503.9 MH/s 
+
+Benchmarking mode: (mode:11100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 33669.7 MH/s 
+
+Benchmarking mode: (mode:11100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 47044.9 MH/s 
+
+Benchmarking mode: (mode:11200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8955.8 MH/s 
+
+Benchmarking mode: (mode:11200) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 12856.3 MH/s 
+
+Benchmarking mode: (mode:11300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 32603 H/s 
+
+Benchmarking mode: (mode:11300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 32599 H/s 
+
+Benchmarking mode: (mode:11400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 21050.6 MH/s 
+
+Benchmarking mode: (mode:11400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 21040.9 MH/s 
+
+Benchmarking mode: (mode:11500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 40881.9 MH/s 
+
+Benchmarking mode: (mode:11500) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 38562.9 MH/s 
+
+Benchmarking mode: (mode:11600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 836.9 kH/s 
+
+Benchmarking mode: (mode:11600) (minLen:0) (maxLen:20) (optimized:'-O')
+           result: 2255.2 kH/s 
+
+Benchmarking mode: (mode:11700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 471.4 MH/s 
+
+Benchmarking mode: (mode:11700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 471.5 MH/s 
+
+Benchmarking mode: (mode:11750) (minLen:0) (maxLen:256) (optimized:'')
+           result: 168.5 MH/s 
+
+Benchmarking mode: (mode:11750) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 166.2 MH/s 
+
+Benchmarking mode: (mode:11760) (minLen:0) (maxLen:256) (optimized:'')
+           result: 233.0 MH/s 
+
+Benchmarking mode: (mode:11760) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 231.4 MH/s 
+
+Benchmarking mode: (mode:11800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 471.1 MH/s 
+
+Benchmarking mode: (mode:11800) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 473.3 MH/s 
+
+Benchmarking mode: (mode:11850) (minLen:0) (maxLen:256) (optimized:'')
+           result: 147.8 MH/s 
+
+Benchmarking mode: (mode:11850) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 147.8 MH/s 
+
+Benchmarking mode: (mode:11860) (minLen:0) (maxLen:256) (optimized:'')
+           result: 192.6 MH/s 
+
+Benchmarking mode: (mode:11860) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 192.6 MH/s 
+
+Benchmarking mode: (mode:11900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 48170.9 kH/s 
+
+Benchmarking mode: (mode:11900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 48211.2 kH/s 
+
+Benchmarking mode: (mode:12000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 19840.9 kH/s 
+
+Benchmarking mode: (mode:12000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 19882.1 kH/s 
+
+Benchmarking mode: (mode:12001) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2042.7 kH/s 
+
+Benchmarking mode: (mode:12001) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2040.3 kH/s 
+
+Benchmarking mode: (mode:12100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3115.8 kH/s 
+
+Benchmarking mode: (mode:12100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 3116.1 kH/s 
+
+Benchmarking mode: (mode:12200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 99640 H/s 
+
+Benchmarking mode: (mode:12200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 99733 H/s 
+
+Benchmarking mode: (mode:12300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 769.1 kH/s 
+
+Benchmarking mode: (mode:12300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 767.2 kH/s 
+
+Benchmarking mode: (mode:12400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 18450.9 kH/s 
+
+Benchmarking mode: (mode:12400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 18516.3 kH/s 
+
+Benchmarking mode: (mode:12500) (minLen:0) (maxLen:128) (optimized:'')
+           result: 200.9 kH/s 
+
+Benchmarking mode: (mode:12500) (minLen:0) (maxLen:20) (optimized:'-O')
+           result: 73576 H/s 
+
+Benchmarking mode: (mode:12600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 10958.3 MH/s 
+
+Benchmarking mode: (mode:12600) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 12141.6 MH/s 
+
+Benchmarking mode: (mode:12700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 355.1 MH/s 
+
+Benchmarking mode: (mode:12700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 355.8 MH/s 
+
+Benchmarking mode: (mode:12800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 72846.4 kH/s 
+
+Benchmarking mode: (mode:12800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 72334.4 kH/s 
+
+Benchmarking mode: (mode:12900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2098.7 kH/s 
+
+Benchmarking mode: (mode:12900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2096.8 kH/s 
+
+Benchmarking mode: (mode:13000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 265.7 kH/s 
+
+Benchmarking mode: (mode:13000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 265.5 kH/s 
+
+Benchmarking mode: (mode:13100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2435.1 MH/s 
+
+Benchmarking mode: (mode:13100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 2743.0 MH/s 
+
+Benchmarking mode: (mode:13200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1049.7 kH/s 
+
+Benchmarking mode: (mode:13200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1049.5 kH/s 
+
+Benchmarking mode: (mode:13300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 33721.7 MH/s 
+
+Benchmarking mode: (mode:13300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 45279.0 MH/s 
+
+Benchmarking mode: (mode:13400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 320.7 kH/s 
+
+Benchmarking mode: (mode:13400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 320.0 kH/s 
+
+Benchmarking mode: (mode:13500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31752.9 MH/s 
+
+Benchmarking mode: (mode:13500) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 35481.7 MH/s 
+
+Benchmarking mode: (mode:13600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 17815.3 kH/s 
+
+Benchmarking mode: (mode:13600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 17575.2 kH/s 
+
+Benchmarking mode: (mode:13711) (minLen:0) (maxLen:64) (optimized:'')
+           result: 6125 H/s 
+
+Benchmarking mode: (mode:13711) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 6126 H/s 
+
+Benchmarking mode: (mode:13712) (minLen:0) (maxLen:64) (optimized:'')
+           result: 3491 H/s 
+
+Benchmarking mode: (mode:13712) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 3487 H/s 
+
+Benchmarking mode: (mode:13713) (minLen:0) (maxLen:64) (optimized:'')
+           result: 2445 H/s 
+
+Benchmarking mode: (mode:13713) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 2445 H/s 
+
+Benchmarking mode: (mode:13721) (minLen:0) (maxLen:128) (optimized:'')
+           result: 6121 H/s 
+
+Benchmarking mode: (mode:13721) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 6121 H/s 
+
+Benchmarking mode: (mode:13722) (minLen:0) (maxLen:128) (optimized:'')
+           result: 3057 H/s 
+
+Benchmarking mode: (mode:13722) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 3059 H/s 
+
+Benchmarking mode: (mode:13723) (minLen:0) (maxLen:128) (optimized:'')
+           result: 2038 H/s 
+
+Benchmarking mode: (mode:13723) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 2038 H/s 
+
+Benchmarking mode: (mode:13731) (minLen:0) (maxLen:128) (optimized:'')
+           result: 745 H/s 
+
+Benchmarking mode: (mode:13731) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 745 H/s 
+
+Benchmarking mode: (mode:13732) (minLen:0) (maxLen:128) (optimized:'')
+           result: 375 H/s 
+
+Benchmarking mode: (mode:13732) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 375 H/s 
+
+Benchmarking mode: (mode:13733) (minLen:0) (maxLen:128) (optimized:'')
+           result: 239 H/s 
+
+Benchmarking mode: (mode:13733) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 239 H/s 
+
+Benchmarking mode: (mode:13741) (minLen:0) (maxLen:64) (optimized:'')
+           result: 12250 H/s 
+
+Benchmarking mode: (mode:13741) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 12252 H/s 
+
+Benchmarking mode: (mode:13742) (minLen:0) (maxLen:64) (optimized:'')
+           result: 6965 H/s 
+
+Benchmarking mode: (mode:13742) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 6968 H/s 
+
+Benchmarking mode: (mode:13743) (minLen:0) (maxLen:64) (optimized:'')
+           result: 4883 H/s 
+
+Benchmarking mode: (mode:13743) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 4884 H/s 
+
+Benchmarking mode: (mode:13751) (minLen:0) (maxLen:128) (optimized:'')
+           result: 8554 H/s 
+
+Benchmarking mode: (mode:13751) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 8544 H/s 
+
+Benchmarking mode: (mode:13752) (minLen:0) (maxLen:128) (optimized:'')
+           result: 4277 H/s 
+
+Benchmarking mode: (mode:13752) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 4275 H/s 
+
+Benchmarking mode: (mode:13753) (minLen:0) (maxLen:128) (optimized:'')
+           result: 2853 H/s 
+
+Benchmarking mode: (mode:13753) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 2852 H/s 
+
+Benchmarking mode: (mode:13761) (minLen:0) (maxLen:64) (optimized:'')
+           result: 21360 H/s 
+
+Benchmarking mode: (mode:13761) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 21346 H/s 
+
+Benchmarking mode: (mode:13762) (minLen:0) (maxLen:64) (optimized:'')
+           result: 10672 H/s 
+
+Benchmarking mode: (mode:13762) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 10658 H/s 
+
+Benchmarking mode: (mode:13763) (minLen:0) (maxLen:64) (optimized:'')
+           result: 7104 H/s 
+
+Benchmarking mode: (mode:13763) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 7109 H/s 
+
+Benchmarking mode: (mode:13771) (minLen:0) (maxLen:128) (optimized:'')
+           result: 296 H/s 
+
+Benchmarking mode: (mode:13771) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 297 H/s 
+
+Benchmarking mode: (mode:13772) (minLen:0) (maxLen:128) (optimized:'')
+           result: 148 H/s 
+
+Benchmarking mode: (mode:13772) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 148 H/s 
+
+Benchmarking mode: (mode:13773) (minLen:0) (maxLen:128) (optimized:'')
+           result: 99 H/s 
+
+Benchmarking mode: (mode:13773) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 99 H/s 
+
+Benchmarking mode: (mode:13781) (minLen:0) (maxLen:64) (optimized:'')
+           result: 740 H/s 
+
+Benchmarking mode: (mode:13781) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 741 H/s 
+
+Benchmarking mode: (mode:13782) (minLen:0) (maxLen:64) (optimized:'')
+           result: 370 H/s 
+
+Benchmarking mode: (mode:13782) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 371 H/s 
+
+Benchmarking mode: (mode:13783) (minLen:0) (maxLen:64) (optimized:'')
+           result: 247 H/s 
+
+Benchmarking mode: (mode:13783) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 247 H/s 
+
+Benchmarking mode: (mode:13800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5162.2 MH/s 
+
+Benchmarking mode: (mode:13800) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 5490.8 MH/s 
+
+Benchmarking mode: (mode:13900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8824.0 MH/s 
+
+Benchmarking mode: (mode:13900) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 12313.0 MH/s 
+
+Benchmarking mode: (mode:14000) (minLen:8) (maxLen:8) (optimized:'')
+           result: 145.1 GH/s 
+
+Benchmarking mode: (mode:14000) (minLen:8) (maxLen:8) (optimized:'-O')
+           result: 145.2 GH/s 
+
+Benchmarking mode: (mode:14100) (minLen:24) (maxLen:24) (optimized:'')
+           result: 19669.2 MH/s 
+
+Benchmarking mode: (mode:14100) (minLen:24) (maxLen:24) (optimized:'-O')
+           result: 19591.2 MH/s 
+
+Benchmarking mode: (mode:14400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 272.4 MH/s 
+
+Benchmarking mode: (mode:14400) (minLen:0) (maxLen:24) (optimized:'-O')
+           result: 2370.7 MH/s 
+
+Benchmarking mode: (mode:14500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6690.4 MH/s 
+
+Benchmarking mode: (mode:14500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 6767.7 MH/s 
+
+Benchmarking mode: (mode:14600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 82019 H/s 
+
+Benchmarking mode: (mode:14600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 83006 H/s 
+
+Benchmarking mode: (mode:14700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1017.2 kH/s 
+
+Benchmarking mode: (mode:14700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1007.6 kH/s 
+
+Benchmarking mode: (mode:14800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 906.6 kH/s 
+
+Benchmarking mode: (mode:14800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 905.9 kH/s 
+
+Benchmarking mode: (mode:14900) (minLen:10) (maxLen:10) (optimized:'')
+           result: 53271.9 MH/s 
+
+Benchmarking mode: (mode:14900) (minLen:10) (maxLen:10) (optimized:'-O')
+           result: 48792.4 MH/s 
+
+Benchmarking mode: (mode:15000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1904.4 MH/s 
+
+Benchmarking mode: (mode:15000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6294.8 MH/s 
+
+Benchmarking mode: (mode:15100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1030.1 kH/s 
+
+Benchmarking mode: (mode:15100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1032.3 kH/s 
+
+Benchmarking mode: (mode:15200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2041.7 kH/s 
+
+Benchmarking mode: (mode:15200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2014.9 kH/s 
+
+Benchmarking mode: (mode:15300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 427.4 kH/s 
+
+Benchmarking mode: (mode:15300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 433.7 kH/s 
+
+Benchmarking mode: (mode:15310) (minLen:0) (maxLen:256) (optimized:'')
+           result: 378.0 kH/s 
+
+Benchmarking mode: (mode:15310) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 374.9 kH/s 
+
+Benchmarking mode: (mode:15400) (minLen:32) (maxLen:32) (optimized:'')
+           result: 29543.6 MH/s 
+
+Benchmarking mode: (mode:15400) (minLen:32) (maxLen:32) (optimized:'-O')
+           result: 29557.3 MH/s 
+
+Benchmarking mode: (mode:15500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 30811.1 MH/s 
+
+Benchmarking mode: (mode:15500) (minLen:0) (maxLen:16) (optimized:'-O')
+           result: 46489.5 MH/s 
+
+Benchmarking mode: (mode:15600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8268.6 kH/s 
+
+Benchmarking mode: (mode:15600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 8281.2 kH/s 
+
+Benchmarking mode: (mode:15700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 60 H/s 
+
+Benchmarking mode: (mode:15700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 60 H/s 
+
+Benchmarking mode: (mode:15900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 247.2 kH/s 
+
+Benchmarking mode: (mode:15900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 247.2 kH/s 
+
+Benchmarking mode: (mode:15910) (minLen:0) (maxLen:256) (optimized:'')
+           result: 183.8 kH/s 
+
+Benchmarking mode: (mode:15910) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 184.9 kH/s 
+
+Benchmarking mode: (mode:16000) (minLen:0) (maxLen:8) (optimized:'')
+           result: 1613.2 MH/s 
+
+Benchmarking mode: (mode:16000) (minLen:0) (maxLen:8) (optimized:'-O')
+           result: 1616.6 MH/s 
+
+Benchmarking mode: (mode:16100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 52430.2 MH/s 
+
+Benchmarking mode: (mode:16100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 104.5 GH/s 
+
+Benchmarking mode: (mode:16200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 435.2 kH/s 
+
+Benchmarking mode: (mode:16200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 431.4 kH/s 
+
+Benchmarking mode: (mode:16300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4294.6 kH/s 
+
+Benchmarking mode: (mode:16300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4247.8 kH/s 
+
+Benchmarking mode: (mode:16400) (minLen:0) (maxLen:64) (optimized:'')
+           result: 70051.6 MH/s 
+
+Benchmarking mode: (mode:16400) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 156.4 GH/s 
+
+Benchmarking mode: (mode:16500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4033.8 MH/s 
+
+Benchmarking mode: (mode:16500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4024.0 MH/s 
+
+Benchmarking mode: (mode:16600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4629.1 MH/s 
+
+Benchmarking mode: (mode:16600) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4628.3 MH/s 
+
+Benchmarking mode: (mode:16700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 406.9 kH/s 
+
+Benchmarking mode: (mode:16700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 407.3 kH/s 
+
+Benchmarking mode: (mode:16900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 871.3 kH/s 
+
+Benchmarking mode: (mode:16900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 861.9 kH/s 
+
+Benchmarking mode: (mode:17010) (minLen:0) (maxLen:256) (optimized:'')
+           result: 26540.9 kH/s 
+
+Benchmarking mode: (mode:17010) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 26538.7 kH/s 
+
+Benchmarking mode: (mode:17020) (minLen:0) (maxLen:256) (optimized:'')
+           result: 33525 H/s 
+
+Benchmarking mode: (mode:17020) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 32673 H/s 
+
+Benchmarking mode: (mode:17030) (minLen:0) (maxLen:256) (optimized:'')
+           result: 13233.0 kH/s 
+
+Benchmarking mode: (mode:17030) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 13222.5 kH/s 
+
+Benchmarking mode: (mode:17040) (minLen:0) (maxLen:256) (optimized:'')
+           result: 70810.7 kH/s 
+
+Benchmarking mode: (mode:17040) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 70825.5 kH/s 
+
+Benchmarking mode: (mode:17200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1683.8 MH/s 
+
+Benchmarking mode: (mode:17200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1637.7 MH/s 
+
+Benchmarking mode: (mode:17210) (minLen:0) (maxLen:256) (optimized:'')
+           result: 7350.3 MH/s 
+
+Benchmarking mode: (mode:17210) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 7388.4 MH/s 
+
+Benchmarking mode: (mode:17220) (minLen:0) (maxLen:256) (optimized:'')
+           result: 43344.3 MH/s 
+
+Benchmarking mode: (mode:17220) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 43371.5 MH/s 
+
+Benchmarking mode: (mode:17225) (minLen:0) (maxLen:256) (optimized:'')
+           result: 51664.3 MH/s 
+
+Benchmarking mode: (mode:17225) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 52342.8 MH/s 
+
+Benchmarking mode: (mode:17230) (minLen:0) (maxLen:256) (optimized:'')
+           result: 59826.1 MH/s 
+
+Benchmarking mode: (mode:17230) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 59691.6 MH/s 
+
+Benchmarking mode: (mode:17300) (minLen:0) (maxLen:55) (optimized:'')
+           result: 4725.9 MH/s 
+
+Benchmarking mode: (mode:17300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4737.7 MH/s 
+
+Benchmarking mode: (mode:17400) (minLen:0) (maxLen:55) (optimized:'')
+           result: 4735.2 MH/s 
+
+Benchmarking mode: (mode:17400) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4733.9 MH/s 
+
+Benchmarking mode: (mode:17500) (minLen:0) (maxLen:55) (optimized:'')
+           result: 4725.7 MH/s 
+
+Benchmarking mode: (mode:17500) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4724.7 MH/s 
+
+Benchmarking mode: (mode:17600) (minLen:0) (maxLen:55) (optimized:'')
+           result: 4736.9 MH/s 
+
+Benchmarking mode: (mode:17600) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4719.7 MH/s 
+
+Benchmarking mode: (mode:17700) (minLen:0) (maxLen:55) (optimized:'')
+           result: 4722.1 MH/s 
+
+Benchmarking mode: (mode:17700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4726.8 MH/s 
+
+Benchmarking mode: (mode:17800) (minLen:0) (maxLen:55) (optimized:'')
+           result: 4723.6 MH/s 
+
+Benchmarking mode: (mode:17800) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4718.6 MH/s 
+
+Benchmarking mode: (mode:17900) (minLen:0) (maxLen:55) (optimized:'')
+           result: 4724.5 MH/s 
+
+Benchmarking mode: (mode:17900) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4720.7 MH/s 
+
+Benchmarking mode: (mode:18000) (minLen:0) (maxLen:55) (optimized:'')
+           result: 4735.7 MH/s 
+
+Benchmarking mode: (mode:18000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4720.0 MH/s 
+
+Benchmarking mode: (mode:18100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8865.5 MH/s 
+
+Benchmarking mode: (mode:18100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 8749.7 MH/s 
+
+Benchmarking mode: (mode:18200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2449.9 MH/s 
+
+Benchmarking mode: (mode:18200) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 2727.8 MH/s 
+
+Benchmarking mode: (mode:18300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 434.6 kH/s 
+
+Benchmarking mode: (mode:18300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 434.6 kH/s 
+
+Benchmarking mode: (mode:18400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 102.3 kH/s 
+
+Benchmarking mode: (mode:18400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 102.1 kH/s 
+
+Benchmarking mode: (mode:18500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 18356.4 MH/s 
+
+Benchmarking mode: (mode:18500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 18355.5 MH/s 
+
+Benchmarking mode: (mode:18600) (minLen:0) (maxLen:51) (optimized:'')
+           result: 3424.1 kH/s 
+
+Benchmarking mode: (mode:18600) (minLen:0) (maxLen:51) (optimized:'-O')
+           result: 3424.7 kH/s 
+
+Benchmarking mode: (mode:18700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 502.5 GH/s 
+
+Benchmarking mode: (mode:18700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 948.0 GH/s 
+
+Benchmarking mode: (mode:18800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1745.3 kH/s 
+
+Benchmarking mode: (mode:18800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1754.1 kH/s 
+
+Benchmarking mode: (mode:18900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1023.1 kH/s 
+
+Benchmarking mode: (mode:18900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1023.2 kH/s 
+
+Benchmarking mode: (mode:19000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 173.6 MH/s 
+
+Benchmarking mode: (mode:19000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 174.0 MH/s 
+
+Benchmarking mode: (mode:19100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 87188.9 kH/s 
+
+Benchmarking mode: (mode:19100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 87174.9 kH/s 
+
+Benchmarking mode: (mode:19200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 59557.8 kH/s 
+
+Benchmarking mode: (mode:19200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 59553.6 kH/s 
+
+Benchmarking mode: (mode:19210) (minLen:0) (maxLen:256) (optimized:'')
+           result: 767.4 kH/s 
+
+Benchmarking mode: (mode:19210) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 767.3 kH/s 
+
+Benchmarking mode: (mode:19300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4721.8 MH/s 
+
+Benchmarking mode: (mode:19300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4763.0 MH/s 
+
+Benchmarking mode: (mode:19500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 347.1 MH/s 
+
+Benchmarking mode: (mode:19500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 347.1 MH/s 
+
+Benchmarking mode: (mode:19600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4962.4 kH/s 
+
+Benchmarking mode: (mode:19600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4890.3 kH/s 
+
+Benchmarking mode: (mode:19700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2453.6 kH/s 
+
+Benchmarking mode: (mode:19700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2480.0 kH/s 
+
+Benchmarking mode: (mode:19800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4985.1 kH/s 
+
+Benchmarking mode: (mode:19800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4962.8 kH/s 
+
+Benchmarking mode: (mode:19900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2481.9 kH/s 
+
+Benchmarking mode: (mode:19900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2481.9 kH/s 
+
+Benchmarking mode: (mode:20011) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2787.6 kH/s 
+
+Benchmarking mode: (mode:20011) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2788.5 kH/s 
+
+Benchmarking mode: (mode:20012) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1290.2 kH/s 
+
+Benchmarking mode: (mode:20012) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1307.4 kH/s 
+
+Benchmarking mode: (mode:20013) (minLen:0) (maxLen:256) (optimized:'')
+           result: 854.7 kH/s 
+
+Benchmarking mode: (mode:20013) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 838.7 kH/s 
+
+Benchmarking mode: (mode:20200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 126.3 kH/s 
+
+Benchmarking mode: (mode:20200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 126.1 kH/s 
+
+Benchmarking mode: (mode:20300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 281.2 kH/s 
+
+Benchmarking mode: (mode:20300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 281.2 kH/s 
+
+Benchmarking mode: (mode:20400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 156.2 kH/s 
+
+Benchmarking mode: (mode:20400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 156.1 kH/s 
+
+Benchmarking mode: (mode:20500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 534.5 GH/s 
+
+Benchmarking mode: (mode:20500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 533.8 GH/s 
+
+Benchmarking mode: (mode:20510) (minLen:0) (maxLen:256) (optimized:'')
+           result: 105.6 GH/s 
+
+Benchmarking mode: (mode:20510) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 105.6 GH/s 
+
+Benchmarking mode: (mode:20600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 17196.6 kH/s 
+
+Benchmarking mode: (mode:20600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 17180.0 kH/s 
+
+Benchmarking mode: (mode:20710) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3746.0 MH/s 
+
+Benchmarking mode: (mode:20710) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 5728.2 MH/s 
+
+Benchmarking mode: (mode:20711) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3719.3 MH/s 
+
+Benchmarking mode: (mode:20711) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 5734.8 MH/s 
+
+Benchmarking mode: (mode:20712) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3694.0 MH/s 
+
+Benchmarking mode: (mode:20712) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 5728.1 MH/s 
+
+Benchmarking mode: (mode:20720) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5125.6 MH/s 
+
+Benchmarking mode: (mode:20720) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 5097.5 MH/s 
+
+Benchmarking mode: (mode:20800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 13006.1 MH/s 
+
+Benchmarking mode: (mode:20800) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 15945.9 MH/s 
+
+Benchmarking mode: (mode:20900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 13554.9 MH/s 
+
+Benchmarking mode: (mode:20900) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 15471.3 MH/s 
+
+Benchmarking mode: (mode:21000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2584.3 MH/s 
+
+Benchmarking mode: (mode:21000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 3043.7 MH/s 
+
+Benchmarking mode: (mode:21100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 22590.0 MH/s 
+
+Benchmarking mode: (mode:21100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 26921.8 MH/s 
+
+Benchmarking mode: (mode:21200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 26894.8 MH/s 
+
+Benchmarking mode: (mode:21200) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 33969.8 MH/s 
+
+Benchmarking mode: (mode:21300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 20180.3 MH/s 
+
+Benchmarking mode: (mode:21300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 20145.6 MH/s 
+
+Benchmarking mode: (mode:21310) (minLen:0) (maxLen:256) (optimized:'')
+           result: 20243.2 MH/s 
+
+Benchmarking mode: (mode:21310) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 20224.9 MH/s 
+
+Benchmarking mode: (mode:21400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 7964.2 MH/s 
+
+Benchmarking mode: (mode:21400) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 9470.5 MH/s 
+
+Benchmarking mode: (mode:21420) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5262.4 MH/s 
+
+Benchmarking mode: (mode:21420) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 5234.6 MH/s 
+
+Benchmarking mode: (mode:21500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 357.6 kH/s 
+
+Benchmarking mode: (mode:21500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 357.7 kH/s 
+
+Benchmarking mode: (mode:21501) (minLen:0) (maxLen:256) (optimized:'')
+           result: 357.7 kH/s 
+
+Benchmarking mode: (mode:21501) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 357.6 kH/s 
+
+Benchmarking mode: (mode:21600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3123.3 kH/s 
+
+Benchmarking mode: (mode:21600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 3123.3 kH/s 
+
+Benchmarking mode: (mode:21700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2200.8 kH/s 
+
+Benchmarking mode: (mode:21700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2200.7 kH/s 
+
+Benchmarking mode: (mode:21800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2121.1 kH/s 
+
+Benchmarking mode: (mode:21800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2120.8 kH/s 
+
+Benchmarking mode: (mode:22000) (minLen:8) (maxLen:63) (optimized:'')
+           result: 2494.5 kH/s 
+
+Benchmarking mode: (mode:22000) (minLen:8) (maxLen:63) (optimized:'-O')
+           result: 2459.2 kH/s 
+
+Benchmarking mode: (mode:22001) (minLen:64) (maxLen:64) (optimized:'')
+           result: 819.5 MH/s 
+
+Benchmarking mode: (mode:22001) (minLen:64) (maxLen:64) (optimized:'-O')
+           result: 814.5 MH/s 
+
+Benchmarking mode: (mode:22100) (minLen:4) (maxLen:256) (optimized:'')
+           result: 85 H/s 
+
+Benchmarking mode: (mode:22100) (minLen:4) (maxLen:256) (optimized:'-O')
+           result: 86 H/s 
+
+Benchmarking mode: (mode:22200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3196.0 MH/s 
+
+Benchmarking mode: (mode:22200) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 6257.5 MH/s 
+
+Benchmarking mode: (mode:22300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5101.8 MH/s 
+
+Benchmarking mode: (mode:22300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18069.1 MH/s 
+
+Benchmarking mode: (mode:22301) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5074.8 MH/s 
+
+Benchmarking mode: (mode:22301) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18455.3 MH/s 
+
+Benchmarking mode: (mode:22400) (minLen:0) (maxLen:128) (optimized:'')
+           result: 2034.8 kH/s 
+
+Benchmarking mode: (mode:22400) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 2046.3 kH/s 
+
+Benchmarking mode: (mode:22500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2014.2 MH/s 
+
+Benchmarking mode: (mode:22500) (minLen:0) (maxLen:31) (optimized:'-O')
+           result: 5104.3 MH/s 
+
+Benchmarking mode: (mode:22600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 726.9 kH/s 
+
+Benchmarking mode: (mode:22600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 725.6 kH/s 
+
+Benchmarking mode: (mode:22700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 9746 H/s 
+
+Benchmarking mode: (mode:22700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 9744 H/s 
+
+Benchmarking mode: (mode:22911) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4289.6 MH/s 
+
+Benchmarking mode: (mode:22911) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4294.8 MH/s 
+
+Benchmarking mode: (mode:22921) (minLen:0) (maxLen:256) (optimized:'')
+           result: 13993.0 MH/s 
+
+Benchmarking mode: (mode:22921) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 13987.0 MH/s 
+
+Benchmarking mode: (mode:22931) (minLen:0) (maxLen:256) (optimized:'')
+           result: 7101.3 MH/s 
+
+Benchmarking mode: (mode:22931) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 7096.3 MH/s 
+
+Benchmarking mode: (mode:22941) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5894.5 MH/s 
+
+Benchmarking mode: (mode:22941) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 5899.9 MH/s 
+
+Benchmarking mode: (mode:22951) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4735.3 MH/s 
+
+Benchmarking mode: (mode:22951) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4960.1 MH/s 
+
+Benchmarking mode: (mode:23001) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6769.6 MH/s 
+
+Benchmarking mode: (mode:23001) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 7004.2 MH/s 
+
+Benchmarking mode: (mode:23002) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5051.5 MH/s 
+
+Benchmarking mode: (mode:23002) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 5268.9 MH/s 
+
+Benchmarking mode: (mode:23003) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4202.8 MH/s 
+
+Benchmarking mode: (mode:23003) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 4527.5 MH/s 
+
+Benchmarking mode: (mode:23100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 10076.0 kH/s 
+
+Benchmarking mode: (mode:23100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 10004.5 kH/s 
+
+Benchmarking mode: (mode:23200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4972.2 kH/s 
+
+Benchmarking mode: (mode:23200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4963.8 kH/s 
+
+Benchmarking mode: (mode:23300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5102.3 kH/s 
+
+Benchmarking mode: (mode:23300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 5107.6 kH/s 
+
+Benchmarking mode: (mode:23400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 86921 H/s 
+
+Benchmarking mode: (mode:23400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 87154 H/s 
+
+Benchmarking mode: (mode:23500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 460.4 kH/s 
+
+Benchmarking mode: (mode:23500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 460.5 kH/s 
+
+Benchmarking mode: (mode:23600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 238.7 kH/s 
+
+Benchmarking mode: (mode:23600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 238.7 kH/s 
+
+Benchmarking mode: (mode:23700) (minLen:0) (maxLen:128) (optimized:'')
+           result: 202.1 kH/s 
+
+Benchmarking mode: (mode:23700) (minLen:0) (maxLen:20) (optimized:'-O')
+           result: 73575 H/s 
+
+Benchmarking mode: (mode:23800) (minLen:0) (maxLen:128) (optimized:'')
+           result: 170.1 kH/s 
+
+Benchmarking mode: (mode:23800) (minLen:0) (maxLen:20) (optimized:'-O')
+           result: 60561 H/s 
+
+Benchmarking mode: (mode:23900) (minLen:0) (maxLen:56) (optimized:'')
+           result: 12378.8 kH/s 
+
+Benchmarking mode: (mode:23900) (minLen:0) (maxLen:56) (optimized:'-O')
+           result: 12389.2 kH/s 
+
+Benchmarking mode: (mode:24100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2052.0 kH/s 
+
+Benchmarking mode: (mode:24100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2045.7 kH/s 
+
+Benchmarking mode: (mode:24200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 575.4 kH/s 
+
+Benchmarking mode: (mode:24200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 572.6 kH/s 
+
+Benchmarking mode: (mode:24300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 5595.5 MH/s 
+
+Benchmarking mode: (mode:24300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18043.7 MH/s 
+
+Benchmarking mode: (mode:24410) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4933.2 kH/s 
+
+Benchmarking mode: (mode:24410) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4932.3 kH/s 
+
+Benchmarking mode: (mode:24420) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3926.0 kH/s 
+
+Benchmarking mode: (mode:24420) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 3954.4 kH/s 
+
+Benchmarking mode: (mode:24500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 10372 H/s 
+
+Benchmarking mode: (mode:24500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 10360 H/s 
+
+Benchmarking mode: (mode:24600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 159.9 kH/s 
+
+Benchmarking mode: (mode:24600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 160.1 kH/s 
+
+Benchmarking mode: (mode:24700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 41089.5 MH/s 
+
+Benchmarking mode: (mode:24700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 54355.4 MH/s 
+
+Benchmarking mode: (mode:24800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4537.7 MH/s 
+
+Benchmarking mode: (mode:24800) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 10260.5 MH/s 
+
+Benchmarking mode: (mode:24900) (minLen:0) (maxLen:55) (optimized:'')
+           result: 81024.2 MH/s 
+
+Benchmarking mode: (mode:24900) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 81062.7 MH/s 
+
+Benchmarking mode: (mode:25000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1313.4 kH/s 
+
+Benchmarking mode: (mode:25000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1311.0 kH/s 
+
+Benchmarking mode: (mode:25100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3836.5 kH/s 
+
+Benchmarking mode: (mode:25100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 3842.7 kH/s 
+
+Benchmarking mode: (mode:25200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2057.2 kH/s 
+
+Benchmarking mode: (mode:25200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2052.6 kH/s 
+
+Benchmarking mode: (mode:25300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 66653 H/s 
+
+Benchmarking mode: (mode:25300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 66647 H/s 
+
+Benchmarking mode: (mode:25400) (minLen:0) (maxLen:32) (optimized:'')
+           result: 84014.6 kH/s 
+
+Benchmarking mode: (mode:25400) (minLen:0) (maxLen:32) (optimized:'-O')
+           result: 84471.7 kH/s 
+
+Benchmarking mode: (mode:25500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1969.2 kH/s 
+
+Benchmarking mode: (mode:25500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1971.2 kH/s 
+
+Benchmarking mode: (mode:25600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 219.9 kH/s 
+
+Benchmarking mode: (mode:25600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 219.9 kH/s 
+
+Benchmarking mode: (mode:25700) (minLen:0) (maxLen:55) (optimized:'')
+           result: 402.2 GH/s 
+
+Benchmarking mode: (mode:25700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 403.6 GH/s 
+
+Benchmarking mode: (mode:25800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 219.9 kH/s 
+
+Benchmarking mode: (mode:25800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 219.9 kH/s 
+
+Benchmarking mode: (mode:25900) (minLen:0) (maxLen:20) (optimized:'')
+           result: 133.1 kH/s 
+
+Benchmarking mode: (mode:25900) (minLen:0) (maxLen:20) (optimized:'-O')
+           result: 132.7 kH/s 
+
+Benchmarking mode: (mode:26000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1099.0 MH/s 
+
+Benchmarking mode: (mode:26000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1190.2 MH/s 
+
+Benchmarking mode: (mode:26100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 811.9 kH/s 
+
+Benchmarking mode: (mode:26100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 810.4 kH/s 
+
+Benchmarking mode: (mode:26200) (minLen:0) (maxLen:16) (optimized:'')
+           result: 244.8 MH/s 
+
+Benchmarking mode: (mode:26200) (minLen:0) (maxLen:16) (optimized:'-O')
+           result: 252.4 MH/s 
+
+Benchmarking mode: (mode:26300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 14925.9 MH/s 
+
+Benchmarking mode: (mode:26300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 14931.2 MH/s 
+
+Benchmarking mode: (mode:26401) (minLen:0) (maxLen:16) (optimized:'')
+           result: 20748.2 MH/s 
+
+Benchmarking mode: (mode:26401) (minLen:0) (maxLen:16) (optimized:'-O')
+           result: 20785.3 MH/s 
+
+Benchmarking mode: (mode:26402) (minLen:0) (maxLen:24) (optimized:'')
+           result: 17811.5 MH/s 
+
+Benchmarking mode: (mode:26402) (minLen:0) (maxLen:24) (optimized:'-O')
+           result: 17834.9 MH/s 
+
+Benchmarking mode: (mode:26403) (minLen:0) (maxLen:32) (optimized:'')
+           result: 14752.8 MH/s 
+
+Benchmarking mode: (mode:26403) (minLen:0) (maxLen:32) (optimized:'-O')
+           result: 14621.2 MH/s 
+
+Benchmarking mode: (mode:26500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 220.2 kH/s 
+
+Benchmarking mode: (mode:26500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 220.4 kH/s 
+
+Benchmarking mode: (mode:26600) (minLen:8) (maxLen:256) (optimized:'')
+           result: 807.0 kH/s 
+
+Benchmarking mode: (mode:26600) (minLen:8) (maxLen:256) (optimized:'-O')
+           result: 812.3 kH/s 
+
+Benchmarking mode: (mode:26610) (minLen:8) (maxLen:256) (optimized:'')
+           result: 811.3 kH/s 
+
+Benchmarking mode: (mode:26610) (minLen:8) (maxLen:256) (optimized:'-O')
+           result: 808.9 kH/s 
+
+Benchmarking mode: (mode:26700) (minLen:8) (maxLen:256) (optimized:'')
+           result: 936.4 kH/s 
+
+Benchmarking mode: (mode:26700) (minLen:8) (maxLen:256) (optimized:'-O')
+           result: 955.8 kH/s 
+
+Benchmarking mode: (mode:26800) (minLen:8) (maxLen:256) (optimized:'')
+           result: 955.9 kH/s 
+
+Benchmarking mode: (mode:26800) (minLen:8) (maxLen:256) (optimized:'-O')
+           result: 955.7 kH/s 
+
+Benchmarking mode: (mode:27000) (minLen:32) (maxLen:32) (optimized:'')
+           result: 954.1 MH/s 
+
+Benchmarking mode: (mode:27000) (minLen:32) (maxLen:32) (optimized:'-O')
+           result: 954.0 MH/s 
+
+Benchmarking mode: (mode:27100) (minLen:32) (maxLen:32) (optimized:'')
+           result: 892.9 MH/s 
+
+Benchmarking mode: (mode:27100) (minLen:32) (maxLen:32) (optimized:'-O')
+           result: 892.6 MH/s 
+
+Benchmarking mode: (mode:27200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 7278.6 MH/s 
+
+Benchmarking mode: (mode:27200) (minLen:0) (maxLen:9) (optimized:'-O')
+           result: 43804.6 MH/s 
+
+Benchmarking mode: (mode:27400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1019.2 kH/s 
+
+Benchmarking mode: (mode:27400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1018.4 kH/s 
+
+Benchmarking mode: (mode:27500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 29146 H/s 
+
+Benchmarking mode: (mode:27500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 29113 H/s 
+
+Benchmarking mode: (mode:27600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 23983 H/s 
+
+Benchmarking mode: (mode:27600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 23986 H/s 
+
+Benchmarking mode: (mode:27700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 9746 H/s 
+
+Benchmarking mode: (mode:27700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 9750 H/s 
+
+Benchmarking mode: (mode:27800) (minLen:0) (maxLen:55) (optimized:'')
+           result: 285.4 GH/s 
+
+Benchmarking mode: (mode:27800) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 284.9 GH/s 
+
+Benchmarking mode: (mode:27900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 40097.5 MH/s 
+
+Benchmarking mode: (mode:27900) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 39108.3 MH/s 
+
+Benchmarking mode: (mode:28000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 270.8 GH/s 
+
+Benchmarking mode: (mode:28000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 225.6 GH/s 
+
+Benchmarking mode: (mode:28100) (minLen:4) (maxLen:127) (optimized:'')
+           result: 809.1 kH/s 
+
+Benchmarking mode: (mode:28100) (minLen:4) (maxLen:127) (optimized:'-O')
+           result: 804.7 kH/s 
+
+Benchmarking mode: (mode:28200) (minLen:4) (maxLen:256) (optimized:'')
+           result: 9587 H/s 
+
+Benchmarking mode: (mode:28200) (minLen:4) (maxLen:256) (optimized:'-O')
+           result: 9573 H/s 
+
+Benchmarking mode: (mode:28300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8120.1 MH/s 
+
+Benchmarking mode: (mode:28300) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 8128.4 MH/s 
+
+Benchmarking mode: (mode:28400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1772 H/s 
+
+Benchmarking mode: (mode:28400) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1780 H/s 
+
+Benchmarking mode: (mode:28501) (minLen:52) (maxLen:52) (optimized:'')
+           result: 9568.5 GH/s 
+
+Benchmarking mode: (mode:28501) (minLen:52) (maxLen:52) (optimized:'-O')
+           result: 9582.1 GH/s 
+
+Benchmarking mode: (mode:28502) (minLen:51) (maxLen:51) (optimized:'')
+           result: 5827.8 GH/s 
+
+Benchmarking mode: (mode:28502) (minLen:51) (maxLen:51) (optimized:'-O')
+           result: 5826.0 GH/s 
+
+Benchmarking mode: (mode:28503) (minLen:52) (maxLen:52) (optimized:'')
+           result: 9550.6 GH/s 
+
+Benchmarking mode: (mode:28503) (minLen:52) (maxLen:52) (optimized:'-O')
+           result: 9631.0 GH/s 
+
+Benchmarking mode: (mode:28504) (minLen:51) (maxLen:51) (optimized:'')
+           result: 5861.2 GH/s 
+
+Benchmarking mode: (mode:28504) (minLen:51) (maxLen:51) (optimized:'-O')
+           result: 5866.5 GH/s 
+
+Benchmarking mode: (mode:28505) (minLen:52) (maxLen:52) (optimized:'')
+           result: 9579.9 GH/s 
+
+Benchmarking mode: (mode:28505) (minLen:52) (maxLen:52) (optimized:'-O')
+           result: 9601.6 GH/s 
+
+Benchmarking mode: (mode:28506) (minLen:51) (maxLen:51) (optimized:'')
+           result: 2980.0 GH/s 
+
+Benchmarking mode: (mode:28506) (minLen:51) (maxLen:51) (optimized:'-O')
+           result: 5944.9 GH/s 
+
+Benchmarking mode: (mode:28600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2125.9 kH/s 
+
+Benchmarking mode: (mode:28600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2125.1 kH/s 
+
+Benchmarking mode: (mode:28700) (minLen:0) (maxLen:252) (optimized:'')
+           result: 399.4 MH/s 
+
+Benchmarking mode: (mode:28700) (minLen:0) (maxLen:51) (optimized:'-O')
+           result: 660.9 MH/s 
+
+Benchmarking mode: (mode:28800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4984.7 kH/s 
+
+Benchmarking mode: (mode:28800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4977.5 kH/s 
+
+Benchmarking mode: (mode:28900) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2485.0 kH/s 
+
+Benchmarking mode: (mode:28900) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2485.2 kH/s 
+
+Benchmarking mode: (mode:29000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 16141.5 MH/s 
+
+Benchmarking mode: (mode:29000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 16152.7 MH/s 
+
+Benchmarking mode: (mode:29100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2603.1 MH/s 
+
+Benchmarking mode: (mode:29100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2632.9 MH/s 
+
+Benchmarking mode: (mode:29200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 3444.0 kH/s 
+
+Benchmarking mode: (mode:29200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 3445.5 kH/s 
+
+Benchmarking mode: (mode:29311) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1861.4 kH/s 
+
+Benchmarking mode: (mode:29311) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1861.4 kH/s 
+
+Benchmarking mode: (mode:29312) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1008.9 kH/s 
+
+Benchmarking mode: (mode:29312) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1007.0 kH/s 
+
+Benchmarking mode: (mode:29313) (minLen:0) (maxLen:64) (optimized:'')
+           result: 677.3 kH/s 
+
+Benchmarking mode: (mode:29313) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 690.7 kH/s 
+
+Benchmarking mode: (mode:29321) (minLen:0) (maxLen:64) (optimized:'')
+           result: 2760.4 kH/s 
+
+Benchmarking mode: (mode:29321) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 2788.7 kH/s 
+
+Benchmarking mode: (mode:29322) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1263.6 kH/s 
+
+Benchmarking mode: (mode:29322) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1304.8 kH/s 
+
+Benchmarking mode: (mode:29323) (minLen:0) (maxLen:64) (optimized:'')
+           result: 826.5 kH/s 
+
+Benchmarking mode: (mode:29323) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 853.5 kH/s 
+
+Benchmarking mode: (mode:29331) (minLen:0) (maxLen:64) (optimized:'')
+           result: 380.4 kH/s 
+
+Benchmarking mode: (mode:29331) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 380.1 kH/s 
+
+Benchmarking mode: (mode:29332) (minLen:0) (maxLen:64) (optimized:'')
+           result: 185.9 kH/s 
+
+Benchmarking mode: (mode:29332) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 188.4 kH/s 
+
+Benchmarking mode: (mode:29333) (minLen:0) (maxLen:64) (optimized:'')
+           result: 124.6 kH/s 
+
+Benchmarking mode: (mode:29333) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 124.6 kH/s 
+
+Benchmarking mode: (mode:29341) (minLen:0) (maxLen:64) (optimized:'')
+           result: 3432.8 kH/s 
+
+Benchmarking mode: (mode:29341) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 3433.2 kH/s 
+
+Benchmarking mode: (mode:29342) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1774.2 kH/s 
+
+Benchmarking mode: (mode:29342) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1774.1 kH/s 
+
+Benchmarking mode: (mode:29343) (minLen:0) (maxLen:64) (optimized:'')
+           result: 1198.6 kH/s 
+
+Benchmarking mode: (mode:29343) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 1198.7 kH/s 
+
+Benchmarking mode: (mode:29411) (minLen:0) (maxLen:64) (optimized:'')
+           result: 6131 H/s 
+
+Benchmarking mode: (mode:29411) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 6126 H/s 
+
+Benchmarking mode: (mode:29412) (minLen:0) (maxLen:64) (optimized:'')
+           result: 3487 H/s 
+
+Benchmarking mode: (mode:29412) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 3488 H/s 
+
+Benchmarking mode: (mode:29413) (minLen:0) (maxLen:64) (optimized:'')
+           result: 2445 H/s 
+
+Benchmarking mode: (mode:29413) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 2446 H/s 
+
+Benchmarking mode: (mode:29421) (minLen:0) (maxLen:128) (optimized:'')
+           result: 6128 H/s 
+
+Benchmarking mode: (mode:29421) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 6131 H/s 
+
+Benchmarking mode: (mode:29422) (minLen:0) (maxLen:128) (optimized:'')
+           result: 3059 H/s 
+
+Benchmarking mode: (mode:29422) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 3059 H/s 
+
+Benchmarking mode: (mode:29423) (minLen:0) (maxLen:128) (optimized:'')
+           result: 2038 H/s 
+
+Benchmarking mode: (mode:29423) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 2037 H/s 
+
+Benchmarking mode: (mode:29431) (minLen:0) (maxLen:128) (optimized:'')
+           result: 756 H/s 
+
+Benchmarking mode: (mode:29431) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 755 H/s 
+
+Benchmarking mode: (mode:29432) (minLen:0) (maxLen:128) (optimized:'')
+           result: 375 H/s 
+
+Benchmarking mode: (mode:29432) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 375 H/s 
+
+Benchmarking mode: (mode:29433) (minLen:0) (maxLen:128) (optimized:'')
+           result: 249 H/s 
+
+Benchmarking mode: (mode:29433) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 249 H/s 
+
+Benchmarking mode: (mode:29441) (minLen:0) (maxLen:64) (optimized:'')
+           result: 12267 H/s 
+
+Benchmarking mode: (mode:29441) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 12265 H/s 
+
+Benchmarking mode: (mode:29442) (minLen:0) (maxLen:64) (optimized:'')
+           result: 6983 H/s 
+
+Benchmarking mode: (mode:29442) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 6982 H/s 
+
+Benchmarking mode: (mode:29443) (minLen:0) (maxLen:64) (optimized:'')
+           result: 4885 H/s 
+
+Benchmarking mode: (mode:29443) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 4897 H/s 
+
+Benchmarking mode: (mode:29451) (minLen:0) (maxLen:128) (optimized:'')
+           result: 8558 H/s 
+
+Benchmarking mode: (mode:29451) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 8557 H/s 
+
+Benchmarking mode: (mode:29452) (minLen:0) (maxLen:128) (optimized:'')
+           result: 4279 H/s 
+
+Benchmarking mode: (mode:29452) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 4277 H/s 
+
+Benchmarking mode: (mode:29453) (minLen:0) (maxLen:128) (optimized:'')
+           result: 2851 H/s 
+
+Benchmarking mode: (mode:29453) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 2862 H/s 
+
+Benchmarking mode: (mode:29461) (minLen:0) (maxLen:64) (optimized:'')
+           result: 21357 H/s 
+
+Benchmarking mode: (mode:29461) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 21375 H/s 
+
+Benchmarking mode: (mode:29462) (minLen:0) (maxLen:64) (optimized:'')
+           result: 10670 H/s 
+
+Benchmarking mode: (mode:29462) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 10673 H/s 
+
+Benchmarking mode: (mode:29463) (minLen:0) (maxLen:64) (optimized:'')
+           result: 7121 H/s 
+
+Benchmarking mode: (mode:29463) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 7117 H/s 
+
+Benchmarking mode: (mode:29471) (minLen:0) (maxLen:128) (optimized:'')
+           result: 297 H/s 
+
+Benchmarking mode: (mode:29471) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 296 H/s 
+
+Benchmarking mode: (mode:29472) (minLen:0) (maxLen:128) (optimized:'')
+           result: 148 H/s 
+
+Benchmarking mode: (mode:29472) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 148 H/s 
+
+Benchmarking mode: (mode:29473) (minLen:0) (maxLen:128) (optimized:'')
+           result: 99 H/s 
+
+Benchmarking mode: (mode:29473) (minLen:0) (maxLen:128) (optimized:'-O')
+           result: 99 H/s 
+
+Benchmarking mode: (mode:29481) (minLen:0) (maxLen:64) (optimized:'')
+           result: 741 H/s 
+
+Benchmarking mode: (mode:29481) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 741 H/s 
+
+Benchmarking mode: (mode:29482) (minLen:0) (maxLen:64) (optimized:'')
+           result: 370 H/s 
+
+Benchmarking mode: (mode:29482) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 371 H/s 
+
+Benchmarking mode: (mode:29483) (minLen:0) (maxLen:64) (optimized:'')
+           result: 248 H/s 
+
+Benchmarking mode: (mode:29483) (minLen:0) (maxLen:64) (optimized:'-O')
+           result: 247 H/s 
+
+Benchmarking mode: (mode:29511) (minLen:0) (maxLen:256) (optimized:'')
+           result: 130.1 kH/s 
+
+Benchmarking mode: (mode:29511) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 129.6 kH/s 
+
+Benchmarking mode: (mode:29512) (minLen:0) (maxLen:256) (optimized:'')
+           result: 63869 H/s 
+
+Benchmarking mode: (mode:29512) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 63700 H/s 
+
+Benchmarking mode: (mode:29513) (minLen:0) (maxLen:256) (optimized:'')
+           result: 12895 H/s 
+
+Benchmarking mode: (mode:29513) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 12936 H/s 
+
+Benchmarking mode: (mode:29521) (minLen:0) (maxLen:256) (optimized:'')
+           result: 85470 H/s 
+
+Benchmarking mode: (mode:29521) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 85492 H/s 
+
+Benchmarking mode: (mode:29522) (minLen:0) (maxLen:256) (optimized:'')
+           result: 41393 H/s 
+
+Benchmarking mode: (mode:29522) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 41408 H/s 
+
+Benchmarking mode: (mode:29523) (minLen:0) (maxLen:256) (optimized:'')
+           result: 10846 H/s 
+
+Benchmarking mode: (mode:29523) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 10839 H/s 
+
+Benchmarking mode: (mode:29531) (minLen:0) (maxLen:256) (optimized:'')
+           result: 41687 H/s 
+
+Benchmarking mode: (mode:29531) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 41675 H/s 
+
+Benchmarking mode: (mode:29532) (minLen:0) (maxLen:256) (optimized:'')
+           result: 41877 H/s 
+
+Benchmarking mode: (mode:29532) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 41812 H/s 
+
+Benchmarking mode: (mode:29533) (minLen:0) (maxLen:256) (optimized:'')
+           result: 9843 H/s 
+
+Benchmarking mode: (mode:29533) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 9830 H/s 
+
+Benchmarking mode: (mode:29541) (minLen:0) (maxLen:256) (optimized:'')
+           result: 73051 H/s 
+
+Benchmarking mode: (mode:29541) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 72585 H/s 
+
+Benchmarking mode: (mode:29542) (minLen:0) (maxLen:256) (optimized:'')
+           result: 71997 H/s 
+
+Benchmarking mode: (mode:29542) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 71628 H/s 
+
+Benchmarking mode: (mode:29543) (minLen:0) (maxLen:256) (optimized:'')
+           result: 26653 H/s 
+
+Benchmarking mode: (mode:29543) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 26748 H/s 
+
+Benchmarking mode: (mode:29600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 86753.1 kH/s 
+
+Benchmarking mode: (mode:29600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 88593.0 kH/s 
+
+Benchmarking mode: (mode:29700) (minLen:32) (maxLen:32) (optimized:'')
+           result: 131.5 kH/s 
+
+Benchmarking mode: (mode:29700) (minLen:32) (maxLen:32) (optimized:'-O')
+           result: 131.3 kH/s 
+
+Benchmarking mode: (mode:29800) (minLen:8) (maxLen:256) (optimized:'')
+           result: 1194 H/s 
+
+Benchmarking mode: (mode:29800) (minLen:8) (maxLen:256) (optimized:'-O')
+           result: 1088 H/s 
+
+Benchmarking mode: (mode:29910) (minLen:0) (maxLen:256) (optimized:'')
+           result: 80912 H/s 
+
+Benchmarking mode: (mode:29910) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 80932 H/s 
+
+Benchmarking mode: (mode:29920) (minLen:0) (maxLen:256) (optimized:'')
+           result: 20156 H/s 
+
+Benchmarking mode: (mode:29920) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 20153 H/s 
+
+Benchmarking mode: (mode:29930) (minLen:0) (maxLen:256) (optimized:'')
+           result: 92030.5 kH/s 
+
+Benchmarking mode: (mode:29930) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 90440.0 kH/s 
+
+Benchmarking mode: (mode:29940) (minLen:0) (maxLen:256) (optimized:'')
+           result: 72921.7 kH/s 
+
+Benchmarking mode: (mode:29940) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 72891.9 kH/s 
+
+Benchmarking mode: (mode:30000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 40420.1 MH/s 
+
+Benchmarking mode: (mode:30000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 52274.6 MH/s 
+
+Benchmarking mode: (mode:30120) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4685.7 MH/s 
+
+Benchmarking mode: (mode:30120) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 8979.4 MH/s 
+
+Benchmarking mode: (mode:30420) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15648.4 MH/s 
+
+Benchmarking mode: (mode:30420) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 18868.7 MH/s 
+
+Benchmarking mode: (mode:30500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 20852.9 MH/s 
+
+Benchmarking mode: (mode:30500) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 23969.8 MH/s 
+
+Benchmarking mode: (mode:30600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 7081 H/s 
+
+Benchmarking mode: (mode:30600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 7113 H/s 
+
+Benchmarking mode: (mode:30700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 15682.2 MH/s 
+
+Benchmarking mode: (mode:30700) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 21278.0 MH/s 
+
+Benchmarking mode: (mode:30901) (minLen:64) (maxLen:64) (optimized:'')
+           result: 103.5 GH/s 
+
+Benchmarking mode: (mode:30901) (minLen:64) (maxLen:64) (optimized:'-O')
+           result: 103.3 GH/s 
+
+Benchmarking mode: (mode:30902) (minLen:64) (maxLen:64) (optimized:'')
+           result: 103.2 GH/s 
+
+Benchmarking mode: (mode:30902) (minLen:64) (maxLen:64) (optimized:'-O')
+           result: 103.4 GH/s 
+
+Benchmarking mode: (mode:30903) (minLen:64) (maxLen:64) (optimized:'')
+           result: 103.2 GH/s 
+
+Benchmarking mode: (mode:30903) (minLen:64) (maxLen:64) (optimized:'-O')
+           result: 103.2 GH/s 
+
+Benchmarking mode: (mode:30904) (minLen:64) (maxLen:64) (optimized:'')
+           result: 103.4 GH/s 
+
+Benchmarking mode: (mode:30904) (minLen:64) (maxLen:64) (optimized:'-O')
+           result: 103.0 GH/s 
+
+Benchmarking mode: (mode:30905) (minLen:64) (maxLen:64) (optimized:'')
+           result: 103.0 GH/s 
+
+Benchmarking mode: (mode:30905) (minLen:64) (maxLen:64) (optimized:'-O')
+           result: 103.1 GH/s 
+
+Benchmarking mode: (mode:30906) (minLen:64) (maxLen:64) (optimized:'')
+           result: 103.3 GH/s 
+
+Benchmarking mode: (mode:30906) (minLen:64) (maxLen:64) (optimized:'-O')
+           result: 103.2 GH/s 
+
+Benchmarking mode: (mode:31000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 25869.1 MH/s 
+
+Benchmarking mode: (mode:31000) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 30840.5 MH/s 
+
+Benchmarking mode: (mode:31100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 8331.7 MH/s 
+
+Benchmarking mode: (mode:31100) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 19872.5 MH/s 
+
+Benchmarking mode: (mode:31200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 672.7 kH/s 
+
+Benchmarking mode: (mode:31200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 679.5 kH/s 
+
+Benchmarking mode: (mode:31300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 22581.8 MH/s 
+
+Benchmarking mode: (mode:31300) (minLen:0) (maxLen:27) (optimized:'-O')
+           result: 37995.3 MH/s 
+
+Benchmarking mode: (mode:31400) (minLen:0) (maxLen:256) (optimized:'')
+           result: 9359.7 MH/s 
+
+Benchmarking mode: (mode:31400) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 10117.5 MH/s 
+
+Benchmarking mode: (mode:31500) (minLen:32) (maxLen:32) (optimized:'')
+           result: 855.4 MH/s 
+
+Benchmarking mode: (mode:31500) (minLen:32) (maxLen:32) (optimized:'-O')
+           result: 855.5 MH/s 
+
+Benchmarking mode: (mode:31600) (minLen:32) (maxLen:32) (optimized:'')
+           result: 2003.8 kH/s 
+
+Benchmarking mode: (mode:31600) (minLen:32) (maxLen:32) (optimized:'-O')
+           result: 2006.7 kH/s 
+
+Benchmarking mode: (mode:31700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 20381.9 MH/s 
+
+Benchmarking mode: (mode:31700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 20369.4 MH/s 
+
+Benchmarking mode: (mode:31800) (minLen:0) (maxLen:256) (optimized:'')
+           result: 81599 H/s 
+
+Benchmarking mode: (mode:31800) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 81593 H/s 
+
+Benchmarking mode: (mode:31900) (minLen:8) (maxLen:256) (optimized:'')
+           result: 629.3 kH/s 
+
+Benchmarking mode: (mode:31900) (minLen:8) (maxLen:256) (optimized:'-O')
+           result: 630.6 kH/s 
+
+Benchmarking mode: (mode:32000) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1039.5 kH/s 
+
+Benchmarking mode: (mode:32000) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1034.5 kH/s 
+
+Benchmarking mode: (mode:32010) (minLen:0) (maxLen:256) (optimized:'')
+           result: 411.3 kH/s 
+
+Benchmarking mode: (mode:32010) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 411.5 kH/s 
+
+Benchmarking mode: (mode:32020) (minLen:0) (maxLen:256) (optimized:'')
+           result: 411.4 kH/s 
+
+Benchmarking mode: (mode:32020) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 411.3 kH/s 
+
+Benchmarking mode: (mode:32030) (minLen:0) (maxLen:256) (optimized:'')
+           result: 163.1 kH/s 
+
+Benchmarking mode: (mode:32030) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 163.1 kH/s 
+
+Benchmarking mode: (mode:32031) (minLen:0) (maxLen:256) (optimized:'')
+           result: 16033.5 kH/s 
+
+Benchmarking mode: (mode:32031) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 16027.1 kH/s 
+
+Benchmarking mode: (mode:32040) (minLen:0) (maxLen:256) (optimized:'')
+           result: 62289 H/s 
+
+Benchmarking mode: (mode:32040) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 62373 H/s 
+
+Benchmarking mode: (mode:32041) (minLen:0) (maxLen:256) (optimized:'')
+           result: 6139.2 kH/s 
+
+Benchmarking mode: (mode:32041) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 6189.3 kH/s 
+
+Benchmarking mode: (mode:32050) (minLen:0) (maxLen:256) (optimized:'')
+           result: 205.1 kH/s 
+
+Benchmarking mode: (mode:32050) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 204.7 kH/s 
+
+Benchmarking mode: (mode:32060) (minLen:0) (maxLen:256) (optimized:'')
+           result: 87348 H/s 
+
+Benchmarking mode: (mode:32060) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 87092 H/s 
+
+Benchmarking mode: (mode:32070) (minLen:0) (maxLen:256) (optimized:'')
+           result: 31402 H/s 
+
+Benchmarking mode: (mode:32070) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 31604 H/s 
+
+Benchmarking mode: (mode:32100) (minLen:0) (maxLen:256) (optimized:'')
+           result: 4978.0 kH/s 
+
+Benchmarking mode: (mode:32100) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 4887.2 kH/s 
+
+Benchmarking mode: (mode:32200) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2454.7 kH/s 
+
+Benchmarking mode: (mode:32200) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2479.8 kH/s 
+
+Benchmarking mode: (mode:32300) (minLen:0) (maxLen:256) (optimized:'')
+           result: 10769.6 MH/s 
+
+Benchmarking mode: (mode:32300) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 12001.4 MH/s 
+
+Benchmarking mode: (mode:32410) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1096.0 MH/s 
+
+Benchmarking mode: (mode:32410) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1099.7 MH/s 
+
+Benchmarking mode: (mode:32420) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1276.5 MH/s 
+
+Benchmarking mode: (mode:32420) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1233.4 MH/s 
+
+Benchmarking mode: (mode:32500) (minLen:0) (maxLen:256) (optimized:'')
+           result: 1613.2 kH/s 
+
+Benchmarking mode: (mode:32500) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 1624.3 kH/s 
+
+Benchmarking mode: (mode:32600) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2423.9 MH/s 
+
+Benchmarking mode: (mode:32600) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2424.5 MH/s 
+
+Benchmarking mode: (mode:32700) (minLen:0) (maxLen:256) (optimized:'')
+           result: 2590.5 kH/s 
+
+Benchmarking mode: (mode:32700) (minLen:0) (maxLen:256) (optimized:'-O')
+           result: 2599.3 kH/s 
+
+Benchmarking mode: (mode:99999) (minLen:0) (maxLen:256) (optimized:'')
+           result: 89753.8 MH/s 
+
+Benchmarking mode: (mode:99999) (minLen:0) (maxLen:55) (optimized:'-O')
+           result: 280.4 GH/s 
+
+Done benchmarking
+Started: Sat Nov  1 11:11:42 UTC 2024
+Stopped: Sun Nov  3 14:23:43 UTC 2024

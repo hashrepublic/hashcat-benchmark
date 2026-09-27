@@ -19,7 +19,7 @@
 It's all developped unded bash to maximise compatibility accross environment (including GPU rental solutions).   
 Be carefull as running a full benchmark can take up to a day. But you'll have accurate results.  
 ```bash
-git clone https://github.com/yourusername/hashcat-benchmark.git
+git clone https://github.com/hashrepublic/hashcat-benchmark.git
 cd hashcat-benchmark
 # Run benchmark for mode 3200
 bash benchmark.sh 3200 
